@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: auto; }
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+
+body { @apply bg-paper text-ink font-body antialiased; }
+::selection { background: #FF4D00; color: #F6F3EC; }
+
+/* faint engineering grid over hero */
+.blueprint {
+  background-image:
+    linear-gradient(rgba(22,21,15,0.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(22,21,15,0.055) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+.blueprint-dark {
+  background-image:
+    linear-gradient(rgba(246,243,236,0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(246,243,236,0.07) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+.rule { border-color: #16150F; }
+.noscroll { scrollbar-width: none; -ms-overflow-style: none; }
+.noscroll::-webkit-scrollbar { display: none; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.spinner { width: 14px; height: 14px; border-radius: 9999px; border: 2px solid rgba(22,21,15,0.2); border-top-color: currentColor; animation: spin 0.7s linear infinite; display: inline-block; flex-shrink: 0; }
+.skel { border-radius: 8px; background: rgba(22,21,15,0.08); animation: pulse 1.6s ease-in-out infinite; }
+@keyframes pulse { 0%,100% { opacity: 0.5; } 50% { opacity: 1; } }
+@keyframes linepulse { 0%,100% { opacity: 0.22; } 50% { opacity: 0.75; } }
+.pulse-line { animation: linepulse 5s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) { .pulse-line { animation: none; } }
+.display { font-family: 'Archivo Black', sans-serif; letter-spacing: -0.015em; }
+
+/* console (Operate) primitives: hairline desk system */
+.panel { @apply bg-sheet rounded-xl border border-ink/15 shadow-card p-5; }
+.panel-flat { @apply bg-sheet rounded-xl border border-ink/15 p-5; }
+.deck { @apply bg-ink text-paper rounded-2xl shadow-lift p-6 sm:p-8; }
+.label { @apply font-mono text-[11px] uppercase tracking-[0.2em] text-smoke; }
+.tag { @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-[11px] font-mono font-medium uppercase tracking-wider border border-ink/25; }
+.btnk { @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full font-semibold transition active:scale-[0.98] disabled:opacity-50 cursor-pointer; font-family: 'Schibsted Grotesk', Inter, sans-serif; }
+.btnk-ink { @apply bg-ink text-paper hover:bg-moss; }
+.btnk-signal { @apply bg-signal text-ink hover:brightness-110; }
+.btnk-line { @apply border border-ink/30 bg-transparent text-ink hover:border-ink hover:bg-ink hover:text-paper; }
+.btnk-paper { @apply bg-paper text-ink hover:bg-sun; }
+.field { @apply w-full rounded-xl border border-ink/25 bg-sheet px-4 py-2.5 font-body focus:outline-none focus:ring-2 focus:ring-signal placeholder:text-smoke/60; }
+.field-deck { @apply w-full rounded-xl border border-paper/25 bg-paper/10 px-5 py-3.5 text-paper text-[15px] focus:outline-none focus:border-signal placeholder:text-paper/40; }
+.tabk { @apply px-1 py-2.5 mr-5 text-[12px] font-mono uppercase tracking-[0.14em] cursor-pointer text-smoke hover:text-ink border-b-2 border-transparent -mb-px whitespace-nowrap; }
+.tabk-on { @apply text-ink border-signal; }
+.tabk-off { @apply text-smoke; }
+.rowline { @apply border-b border-ink/10 last:border-0; }
+h1.console-h, h2.console-h, h3.console-h { font-family: 'Schibsted Grotesk', Inter, sans-serif; letter-spacing: -0.01em; }
+
+a, button { -webkit-tap-highlight-color: transparent; }
+:focus-visible { outline: 2px solid #FF4D00; outline-offset: 2px; }

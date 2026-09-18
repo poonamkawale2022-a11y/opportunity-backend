@@ -1,0 +1,36 @@
+[
+ {
+  "name": "Judge",
+  "email": "judge+1789747125@hackathon.test",
+  "user_id": "judge+1789747125@hackathon.test",
+  "password_salt": "68165d473709dea5a41085fdc05dcfe5",
+  "password_hash": "a3546e59a9ac09b0338aadaa49afcce3ff753617ccf8a0f26ddb519ffa90c0c2",
+  "sessions": [
+   {
+    "token": "Lvc9a9GxSQM1rXe3FiMetHFMMWeT1brQe48AnMsBNn4",
+    "created": 1789727327.4763308
+   },
+   {
+    "token": "1nhfxd_Z3JyHwLdG8okGdHgS_DM0YjNOJbYZKq2GxBE",
+    "created": 1789727328.1035151
+   }
+  ],
+  "_id": "73b3bf8d4c93",
+  "created_at": "2026-09-18T10:28:47Z"
+ },
+ {
+  "name": "Omkar Kudalkar",
+  "email": "kudalkaromkar44@gmail.com",
+  "user_id": "kudalkaromkar44@gmail.com",
+  "password_salt": "6c028bf57ed2aa798a9358536a750e4e",
+  "password_hash": "b90261295d7eb72d8e401f0c8ef9e81e9ab0083de09ef2c01c6bd991cb4ef354",
+  "sessions": [
+   {
+    "token": "UORkSZV4hTezd2fCQiHLqhNw1_e38WAeCAMEpYX1iKY",
+    "created": 1789745168.746523
+   }
+  ],
+  "_id": "0f25a319f0e6",
+  "created_at": "2026-09-18T10:39:38Z"
+ }
+]

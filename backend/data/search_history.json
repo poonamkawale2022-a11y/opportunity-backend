@@ -1,0 +1,675 @@
+[
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "IIT Bombay AI lab"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0a80304eba0662fdd404",
+  "latency_ms": 4129,
+  "_id": "e6ac047e07af",
+  "created_at": "2026-09-18T09:55:12Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "AI research intern India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0a8900a19701410db14f",
+  "latency_ms": 17459,
+  "_id": "5f50ada98b74",
+  "created_at": "2026-09-18T09:55:36Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "transformer language models"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0aa0badf0b0cbbb36412",
+  "latency_ms": 8347,
+  "_id": "a3a404c7bca4",
+  "created_at": "2026-09-18T09:55:50Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "AI research India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0ab06c328361103ec891",
+  "latency_ms": 12340,
+  "_id": "5b07b4195093",
+  "created_at": "2026-09-18T09:56:10Z"
+ },
+ {
+  "engine": "google_maps",
+  "params": {
+   "engine": "google_maps",
+   "location": "Mumbai",
+   "q": "IIT Bombay",
+   "z": "13"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0c0ad08cfee1da6eeb9e",
+  "latency_ms": 4282,
+  "_id": "312d276bdb06",
+  "created_at": "2026-09-18T10:01:46Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "AI intern India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0c5a3d0e4e2f4cbf0156",
+  "latency_ms": 62934,
+  "_id": "867b5584f388",
+  "created_at": "2026-09-18T10:03:09Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "AI intern India"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad0c5a3d0e4e2f4cbf0156",
+  "_id": "14fc4f77dd96",
+  "created_at": "2026-09-18T10:03:20Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "location": "India",
+   "num": 10,
+   "q": "ai internship research India official apply"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0cfcd6eb727807dfe4b4",
+  "latency_ms": 48252,
+  "_id": "51c8c3654cf3",
+  "created_at": "2026-09-18T10:06:05Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "ai lab internship"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0d10f9aa731da735aaba",
+  "latency_ms": 7620,
+  "_id": "789beb6c8bbb",
+  "created_at": "2026-09-18T10:06:13Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": " Work with us - Apple Machine Learning Research"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0d1812eb1485ab77fdba",
+  "latency_ms": 9953,
+  "_id": "0f98f3501985",
+  "created_at": "2026-09-18T10:06:23Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": " Work with us - Apple Machine Learning Research"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0d23ae39f36f17039d8c",
+  "latency_ms": 12885,
+  "_id": "57884602eb7a",
+  "created_at": "2026-09-18T10:06:37Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": " AI applied engineer - Voice first (Internship) at SuperKalam"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad0d3071a41d4c051407e4",
+  "latency_ms": 59309,
+  "_id": "57171abb435a",
+  "created_at": "2026-09-18T10:07:37Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "location": "India",
+   "num": 10,
+   "q": "ai internship research India official apply"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad0cfcd6eb727807dfe4b4",
+  "_id": "c010ea6ab919",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "ai lab internship"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad0d10f9aa731da735aaba",
+  "_id": "42da6e96af1f",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": " Work with us - Apple Machine Learning Research"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad0d1812eb1485ab77fdba",
+  "_id": "587aa22a1adf",
+  "created_at": "2026-09-18T10:41:27Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": " Work with us - Apple Machine Learning Research"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad0d23ae39f36f17039d8c",
+  "_id": "e3cd6c131236",
+  "created_at": "2026-09-18T10:41:27Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": " AI applied engineer - Voice first (Internship) at SuperKalam"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad0d3071a41d4c051407e4",
+  "_id": "1c18b8c31171",
+  "created_at": "2026-09-18T10:41:27Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": " AI Research Internships"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad155be82707f0a4821048",
+  "latency_ms": 7296,
+  "_id": "f959ccf47d92",
+  "created_at": "2026-09-18T10:41:35Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": " AI Research Internships"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad1562bcd9270098c1bbc2",
+  "latency_ms": 3756,
+  "_id": "c7596cf84626",
+  "created_at": "2026-09-18T10:41:39Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": " AI Research Internships"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad259cd02d2ae9646eafa3",
+  "latency_ms": 25600,
+  "_id": "bd607acc3541",
+  "created_at": "2026-09-18T11:51:14Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": " AI Research Internships"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad25b6e3e176380827aad4",
+  "latency_ms": 3078,
+  "_id": "030f761d5164",
+  "created_at": "2026-09-18T11:51:18Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "AIML internships for batch 2028 graduates"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad329509a51ac1eec3f292",
+  "latency_ms": 2320,
+  "_id": "f94f29ae1a6c",
+  "created_at": "2026-09-18T12:48:24Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "ai ml internship India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad33bc57c44b923ccc265a",
+  "latency_ms": 41033,
+  "_id": "8978c4ff6163",
+  "created_at": "2026-09-18T12:51:18Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "location": "India",
+   "q": "site:linkedin.com/posts \"hiring\" \"python machine learning ai ml internship\" India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad33c95989b9ac5511a51e",
+  "latency_ms": 2938,
+  "_id": "07dda0dbb380",
+  "created_at": "2026-09-18T12:51:21Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "location": "India",
+   "q": "site:linkedin.com/jobs/view \"python machine learning ai ml internship\" India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad33cda4817cb027f57a61",
+  "latency_ms": 2802,
+  "_id": "ea4b3a094d82",
+  "created_at": "2026-09-18T12:51:25Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Plix Artificial Intelligence (AI) Internship in Mumbai official"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad33d25c9301fbab998b04",
+  "latency_ms": 3650,
+  "_id": "a6d299ff639e",
+  "created_at": "2026-09-18T12:51:30Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "Plix Artificial Intelligence (AI) Internship in Mumbai"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad33d5d3fb85a5a4480e02",
+  "latency_ms": 12647,
+  "_id": "4de360f6caa9",
+  "created_at": "2026-09-18T12:51:43Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "Plix Artificial Intelligence (AI) Internship in Mumbai"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad33e2abe7ec570cf9bd16",
+  "latency_ms": 59433,
+  "_id": "0d392d9e7c33",
+  "created_at": "2026-09-18T12:52:42Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Digantara AI/ML Data Annotation Intern official"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad34205b92f8de9b7698ab",
+  "latency_ms": 2646,
+  "_id": "536124ecd856",
+  "created_at": "2026-09-18T12:52:48Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "Digantara AI/ML Data Annotation Intern"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad3423fd81c867a7588ac2",
+  "latency_ms": 12542,
+  "_id": "7a9e237cfc1a",
+  "created_at": "2026-09-18T12:53:01Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "Digantara AI/ML Data Annotation Intern"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad344c32f11d7d5fd9c2fc",
+  "latency_ms": 45820,
+  "_id": "ecf8d2bd7b1b",
+  "created_at": "2026-09-18T12:53:47Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Paxcom Machine Learning/ AI Intern official"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad34615989b9b3a2fb6003",
+  "latency_ms": 4826,
+  "_id": "8ea271a5c0ab",
+  "created_at": "2026-09-18T12:53:55Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "Paxcom Machine Learning/ AI Intern"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad34666c4c0cb6c5e4eb6d",
+  "latency_ms": 8215,
+  "_id": "048ca37e6ae7",
+  "created_at": "2026-09-18T12:54:04Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "Paxcom Machine Learning/ AI Intern"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad346fae39f3ac4152f258",
+  "latency_ms": 20619,
+  "_id": "977dbc12e59a",
+  "created_at": "2026-09-18T12:54:25Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "SDE internships 2028 batch"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad34e8c203486c6343715d",
+  "latency_ms": 2191,
+  "_id": "ac835c684eee",
+  "created_at": "2026-09-18T12:58:43Z"
+ },
+ {
+  "engine": "google_jobs",
+  "params": {
+   "engine": "google_jobs",
+   "location": "India",
+   "q": "ai ml internship India"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad33bc57c44b923ccc265a",
+  "_id": "44459e70979c",
+  "created_at": "2026-09-18T13:01:52Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "location": "India",
+   "q": "site:linkedin.com/posts \"hiring\" \"AWS C++ ai ml internship\" India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad36433f79e8c5166be1bb",
+  "latency_ms": 2380,
+  "_id": "3a2b58765796",
+  "created_at": "2026-09-18T13:01:54Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "location": "India",
+   "q": "site:linkedin.com/jobs/view \"AWS C++ ai ml internship\" India"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad3645231ffed4ee4182cc",
+  "latency_ms": 4775,
+  "_id": "5d47d9f72f9c",
+  "created_at": "2026-09-18T13:01:59Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Plix Artificial Intelligence (AI) Internship in Mumbai official"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad33d25c9301fbab998b04",
+  "_id": "65f842a61cf9",
+  "created_at": "2026-09-18T13:02:00Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "Plix Artificial Intelligence (AI) Internship in Mumbai"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad33d5d3fb85a5a4480e02",
+  "_id": "560427fec797",
+  "created_at": "2026-09-18T13:02:00Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "Plix Artificial Intelligence (AI) Internship in Mumbai"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad33e2abe7ec570cf9bd16",
+  "_id": "1505e8d4d953",
+  "created_at": "2026-09-18T13:02:00Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Digantara AI/ML Data Annotation Intern official"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad34205b92f8de9b7698ab",
+  "_id": "6d73c31946a2",
+  "created_at": "2026-09-18T13:02:04Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "Digantara AI/ML Data Annotation Intern"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad3423fd81c867a7588ac2",
+  "_id": "014b1c655d16",
+  "created_at": "2026-09-18T13:02:04Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "Digantara AI/ML Data Annotation Intern"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad344c32f11d7d5fd9c2fc",
+  "_id": "aecaca0de8f7",
+  "created_at": "2026-09-18T13:02:04Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Paxcom Machine Learning/ AI Intern official"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad34615989b9b3a2fb6003",
+  "_id": "d1e78986148e",
+  "created_at": "2026-09-18T13:02:07Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "Paxcom Machine Learning/ AI Intern"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad34666c4c0cb6c5e4eb6d",
+  "_id": "e2216e2e471a",
+  "created_at": "2026-09-18T13:02:07Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "Paxcom Machine Learning/ AI Intern"
+  },
+  "cache_hit": true,
+  "status": "Success",
+  "search_id": "6aad346fae39f3ac4152f258",
+  "_id": "f3401b10eed8",
+  "created_at": "2026-09-18T13:02:07Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "Sparks To Ideas hiring manager recruiter OR professor contact"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad37916561a60ca9b93291",
+  "latency_ms": 2878,
+  "_id": "564a2bb2033b",
+  "created_at": "2026-09-18T13:07:30Z"
+ },
+ {
+  "engine": "google",
+  "params": {
+   "engine": "google",
+   "num": 5,
+   "q": "BharatTech AI/ML Intern official"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad3a7da973c4e7a176c4f8",
+  "latency_ms": 2750,
+  "_id": "fddb87cae723",
+  "created_at": "2026-09-18T13:19:57Z"
+ },
+ {
+  "engine": "google_scholar",
+  "params": {
+   "engine": "google_scholar",
+   "q": "BharatTech AI/ML Intern"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad3a807af899cd10e950f4",
+  "latency_ms": 10153,
+  "_id": "a642bb1bbca4",
+  "created_at": "2026-09-18T13:20:07Z"
+ },
+ {
+  "engine": "google_news",
+  "params": {
+   "engine": "google_news",
+   "q": "BharatTech AI/ML Intern"
+  },
+  "cache_hit": false,
+  "status": "Success",
+  "search_id": "6aad3a8b3882c5a8f57395f7",
+  "latency_ms": 10340,
+  "_id": "36339da24ca5",
+  "created_at": "2026-09-18T13:20:18Z"
+ }
+]

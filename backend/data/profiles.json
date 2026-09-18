@@ -1,0 +1,277 @@
+[
+ {
+  "user_id": "demo-user",
+  "name": "Demo Applicant",
+  "email": "demo@example.com",
+  "education": [
+   {
+    "raw": "B.Tech Computer Science, 2024-2028"
+   }
+  ],
+  "skills": [
+   "python",
+   "machine learning",
+   "pytorch",
+   "sql",
+   "git",
+   "nlp"
+  ],
+  "experience": [],
+  "projects": [
+   {
+    "title": "Sentiment classifier with transformers"
+   }
+  ],
+  "research": [
+   "interested in NLP and LLMs"
+  ],
+  "links": {},
+  "location": "India",
+  "preferences": {
+   "likes": [
+    "research internships",
+    "remote"
+   ],
+   "dislikes": [
+    "unpaid"
+   ]
+  },
+  "_id": "b64a86a1b9e5",
+  "created_at": "2026-09-18T10:03:34Z"
+ },
+ {
+  "user_id": "judge+1789747125@hackathon.test",
+  "name": "Judge",
+  "email": "judge+1789747125@hackathon.test",
+  "skills": [],
+  "location": "",
+  "preferences": {},
+  "_id": "a6b19e8a223d",
+  "created_at": "2026-09-18T10:28:47Z"
+ },
+ {
+  "user_id": "kudalkaromkar44@gmail.com",
+  "name": "Omkar Kudalkar",
+  "email": "kudalkaromkar44@gmail.com",
+  "skills": [],
+  "location": "",
+  "preferences": {},
+  "_id": "054da5497f83",
+  "created_at": "2026-09-18T10:39:38Z"
+ },
+ {
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "name": "OMKAR KUDALKAR",
+  "email": "kudalkaromkar44@gmail.com",
+  "education": [
+   {
+    "school": "Dwarkadas Jivanlal Sanghvi College of EngineeringSep 2024",
+    "degree": "B.Tech",
+    "field": "Computer Science",
+    "years": "Sep 2024 – June 2028"
+   },
+   {
+    "school": "FIITJEE",
+    "degree": "12th",
+    "field": "Computer Application",
+    "years": "2023"
+   },
+   {
+    "school": "N.L. Dalmia High School 2021",
+    "degree": "10th",
+    "field": "Computer Application",
+    "years": "2021"
+   }
+  ],
+  "skills": [
+   "AWS",
+   "C++",
+   "CD",
+   "CI",
+   "Computer Vision",
+   "DBMS",
+   "Docker",
+   "Express.js",
+   "Framer Motion",
+   "Git",
+   "Java",
+   "JavaScript",
+   "Kafka",
+   "Kubernetes",
+   "LLM",
+   "LangChain",
+   "LangGraph",
+   "Languages:Python",
+   "Microservices Frontend:Next.js",
+   "MongoDB",
+   "Neo4j",
+   "Netlify",
+   "Node.js",
+   "OOP",
+   "Python",
+   "REST APIs",
+   "React",
+   "Render",
+   "Research",
+   "SQL",
+   "Three.js",
+   "Unit Testing",
+   "Vercel",
+   "c++",
+   "communication",
+   "git",
+   "java",
+   "javascript",
+   "llm",
+   "machine learning",
+   "n8n",
+   "python",
+   "r",
+   "react",
+   "research",
+   "transformers"
+  ],
+  "experience": [
+   {
+    "title": "Hooman Labs|Founders Office Intern",
+    "company": "unified outgoing-call analysis database and automate customer onboarding.",
+    "years": "Apr 2026 – Present",
+    "summary": "Built secure CRM integrations (HubSpot, Shopify, CleverTap) for enterprise clients (GIVA, Palmonas), linking APIs to build a Cut prompt token usage from 13–20K to under 5K per call by optimizing call-flow logic and prompt design, reducing per-call cost while maintaining conversation quality for clients like Careers360. Built QA metrics to analyze call recordings for disconnections and mid-call gaps, and collaborated with founders/engineers in an agile workflow to scope requirements and ship reli"
+   },
+   {
+    "title": "IIT Patna|Research Intern↗",
+    "company": "execution than sequential processing with fault-tolerant graceful degradation.",
+    "years": "Apr 2026 – Present",
+    "summary": "Architected an 11-agent parallel processing pipeline (Python,asyncio.gather()) with 3-wave orchestration, achieving 3–4×faster Engineered a Graph-RAG retrieval pipeline using Neo4j subgraph extraction, cutting LLM context-window token usage by 86% (30K to under 6K tokens/query) through debugging and iterative tuning of retrieval logic. 1st Place (Winner) – HackXelerate 2026 (VJTI Mumbai) 200+ Teams –Developed an AI-powered smart waste management platform using OpenCV for waste detection and inte"
+   }
+  ],
+  "projects": [],
+  "research": [],
+  "links": {
+   "linkedin": "https://linkedin.com/in/omkar-kudalkar",
+   "github": "https://github.com/OmkarKudalkar23",
+   "website": ""
+  },
+  "location": "Mumbai, India",
+  "preferences": {
+   "work_types": [
+    "Remote",
+    "Onsite"
+   ],
+   "relocate": false
+  },
+  "raw_text": "",
+  "_id": "b4d19977aa35",
+  "created_at": "2026-09-18T11:15:00Z",
+  "phone": "+91 8433550728",
+  "parse_meta": {
+   "sections_found": [
+    "education",
+    "experience",
+    "header",
+    "projects",
+    "skills"
+   ],
+   "confidence": {
+    "name": "high",
+    "email": "high",
+    "phone": "high",
+    "location": "high",
+    "experience": "high",
+    "education": "high",
+    "skills": "high"
+   }
+  }
+ },
+ {
+  "user_id": "autofill-probe",
+  "name": "Aarav Sharma",
+  "email": "aarav@test.in",
+  "phone": "+91 98765 43210",
+  "education": [
+   {
+    "raw": "B.Tech CSE, IIT Bombay"
+   }
+  ],
+  "skills": [
+   "python",
+   "pytorch",
+   "sql"
+  ],
+  "raw_text": "Aarav Sharma\nB.Tech CSE, IIT Bombay\naarav@test.in\n+91 98765 43210\nPython PyTorch SQL",
+  "_id": "8c8435b3dee9",
+  "created_at": "2026-09-18T11:29:20Z"
+ },
+ {
+  "user_id": "probe-real",
+  "name": "Priya Nair",
+  "email": "priya.nair@test.in",
+  "phone": "+91 99800 12345",
+  "education": [
+   {
+    "school": "IIT Bombay",
+    "degree": "B.Tech",
+    "field": "",
+    "years": "2018 - 2022"
+   }
+  ],
+  "skills": [
+   "AWS",
+   "Communication",
+   "Docker",
+   "Git",
+   "JavaScript",
+   "Kubernetes",
+   "LLM",
+   "Leadership",
+   "Machine Learning",
+   "NLP",
+   "PyTorch",
+   "Python",
+   "React",
+   "SQL",
+   "Transformers"
+  ],
+  "experience": [
+   {
+    "title": "Senior ML Engineer",
+    "company": "GenAI Labs",
+    "years": "Mar 2023 - Present",
+    "summary": "Shipped an LLM reranker with PyTorch and transformers, cutting p99 latency 40%. Led a team of three; owned Kubernetes rollouts on AWS."
+   },
+   {
+    "title": "ML Intern",
+    "company": "DataWorks",
+    "years": "Jun 2022 - Feb 2023",
+    "summary": "Built SQL ETL pipelines and dashboards in React."
+   }
+  ],
+  "summary": "ML engineer with 3 years building NLP systems.",
+  "links": {
+   "linkedin": "https://linkedin.com/in/priyanaair",
+   "github": "https://github.com/priyanaair"
+  },
+  "location": "Bengaluru, India",
+  "raw_text": "Priya Nair\nBengaluru | priya.nair@test.in | +91 99800 12345 | linkedin.com/in/priyanaair | github.com/priyanaair\nSUMMARY\nML engineer with 3 years building NLP systems.\nEXPERIENCE\nSenior ML Engineer | GenAI Labs, Bengaluru\nMar 2023 - Present\n- Shipped an LLM reranker with PyTorch and transformers, cutting p99 latency 40%.\n- Led a team of three; owned Kubernetes rollouts on AWS.\nML Intern at DataWorks\nJun 2022 - Feb 2023\n- Built SQL ETL pipelines and dashboards in React.\nEDUCATION\nB.Tech in Computer Science, IIT Bombay, 2018 - 2022\nSKILLS\nPython, PyTorch, JS, k8s, SQL, Docker, Communication",
+  "parse_meta": {
+   "sections_found": [
+    "education",
+    "experience",
+    "header",
+    "skills",
+    "summary"
+   ],
+   "confidence": {
+    "name": "high",
+    "email": "high",
+    "phone": "high",
+    "location": "high",
+    "experience": "high",
+    "education": "high",
+    "skills": "high"
+   }
+  },
+  "_id": "d89a93c8f73d",
+  "created_at": "2026-09-18T11:51:43Z"
+ }
+]

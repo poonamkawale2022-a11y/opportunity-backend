@@ -1,0 +1,656 @@
+[
+ {
+  "opportunity_id": "3feac8abb6ab",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "location",
+     "education-present"
+    ],
+    "uncertain": [],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "machine learning"
+    ],
+    "gaps": []
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "1/2 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.65,
+   "why_shown": [
+    "1 core skills match (machine learning)",
+    "location compatible",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "2c5e826db50f",
+  "_id": "48c2308d090e",
+  "created_at": "2026-09-18T10:06:37Z"
+ },
+ {
+  "opportunity_id": "4aef08e24e45",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "location",
+     "education-present"
+    ],
+    "uncertain": [],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "machine learning",
+     "python"
+    ],
+    "gaps": []
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "2/3 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.767,
+   "why_shown": [
+    "2 core skills match (machine learning, python)",
+    "location compatible",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "2c5e826db50f",
+  "_id": "56d843e7bb62",
+  "created_at": "2026-09-18T10:07:37Z"
+ },
+ {
+  "opportunity_id": "3feac8abb6ab",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "match": {
+   "eligibility": {
+    "status": "needs_review",
+    "matched": [
+     "location"
+    ],
+    "uncertain": [
+     "education"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [],
+    "gaps": [
+     "machine learning",
+     "r"
+    ]
+   },
+   "preference_match": [],
+   "research_alignment": [],
+   "rationale": "0/2 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.3,
+   "why_shown": [
+    "location compatible"
+   ]
+  },
+  "task_id": "18e6ee9d752d",
+  "_id": "fa5b14818105",
+  "created_at": "2026-09-18T10:41:27Z"
+ },
+ {
+  "opportunity_id": "4aef08e24e45",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "match": {
+   "eligibility": {
+    "status": "needs_review",
+    "matched": [
+     "location"
+    ],
+    "uncertain": [
+     "education"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [],
+    "gaps": [
+     "machine learning",
+     "python",
+     "r"
+    ]
+   },
+   "preference_match": [],
+   "research_alignment": [],
+   "rationale": "0/3 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.3,
+   "why_shown": [
+    "location compatible"
+   ]
+  },
+  "task_id": "18e6ee9d752d",
+  "_id": "59047a7bf3df",
+  "created_at": "2026-09-18T10:41:28Z"
+ },
+ {
+  "opportunity_id": "45bd3ef2bf6b",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "match": {
+   "eligibility": {
+    "status": "needs_review",
+    "matched": [
+     "location"
+    ],
+    "uncertain": [
+     "education"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [],
+    "gaps": [
+     "r",
+     "research"
+    ]
+   },
+   "preference_match": [],
+   "research_alignment": [],
+   "rationale": "0/2 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.3,
+   "why_shown": [
+    "location compatible"
+   ]
+  },
+  "task_id": "18e6ee9d752d",
+  "_id": "93fdfe5833cc",
+  "created_at": "2026-09-18T10:41:40Z"
+ },
+ {
+  "opportunity_id": "45bd3ef2bf6b",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "needs_review",
+    "matched": [
+     "location",
+     "education-present"
+    ],
+    "uncertain": [],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [],
+    "gaps": [
+     "research"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "0/2 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.3,
+   "why_shown": [
+    "location compatible"
+   ]
+  },
+  "task_id": "18e6ee9d752d",
+  "_id": "157e2d4e5cb7",
+  "created_at": "2026-09-18T11:50:23Z"
+ },
+ {
+  "opportunity_id": "50377ca64598",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "needs_review",
+    "matched": [
+     "location",
+     "education-present"
+    ],
+    "uncertain": [],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [],
+    "gaps": [
+     "research"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "0/1 core skills match; location compatible; research overlap: none stated.",
+   "score": 0.3,
+   "why_shown": [
+    "location compatible"
+   ]
+  },
+  "task_id": "18e6ee9d752d",
+  "_id": "77e4c1ee3798",
+  "created_at": "2026-09-18T12:51:46Z"
+ },
+ {
+  "opportunity_id": "14e164e8aead",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "needs_review",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [],
+    "gaps": [
+     "research"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "0/2 core skills match; location uncertain; research overlap: none stated.",
+   "score": 0.0,
+   "why_shown": [
+    "broad goal match — run Match for details"
+   ]
+  },
+  "task_id": "8662a472c5e4",
+  "_id": "e68a9731dc89",
+  "created_at": "2026-09-18T12:52:45Z"
+ },
+ {
+  "opportunity_id": "12e1d7f6c279",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "git",
+     "machine learning",
+     "python",
+     "pytorch"
+    ],
+    "gaps": [
+     "communication",
+     "computer vision",
+     "deep learning",
+     "research",
+     "statistics",
+     "tensorflow"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "4/11 core skills match; location uncertain; research overlap: none stated.",
+   "score": 0.255,
+   "why_shown": [
+    "4 core skills match (git, machine learning, python, pytorch)",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "8662a472c5e4",
+  "_id": "2d0d61061486",
+  "created_at": "2026-09-18T12:53:50Z"
+ },
+ {
+  "opportunity_id": "73b4c47e1bea",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "git",
+     "machine learning",
+     "python",
+     "pytorch",
+     "sql"
+    ],
+    "gaps": [
+     "aws",
+     "communication",
+     "docker",
+     "llm",
+     "tensorflow"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [
+    "llm"
+   ],
+   "rationale": "5/11 core skills match; location uncertain; research overlap: llm.",
+   "score": 0.318,
+   "why_shown": [
+    "5 core skills match (git, machine learning, python, pytorch)",
+    "research aligns: llm",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "8662a472c5e4",
+  "_id": "554963e10038",
+  "created_at": "2026-09-18T12:54:27Z"
+ },
+ {
+  "opportunity_id": "14e164e8aead",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "r",
+     "research"
+    ],
+    "gaps": []
+   },
+   "preference_match": [
+    {
+     "preference": "work_types",
+     "match": true
+    },
+    {
+     "preference": "relocate",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "2/2 core skills match; location uncertain; research overlap: none stated.",
+   "score": 0.7,
+   "why_shown": [
+    "2 core skills match (r, research)",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "638d7db40332",
+  "_id": "be16bad8aa31",
+  "created_at": "2026-09-18T13:02:03Z"
+ },
+ {
+  "opportunity_id": "12e1d7f6c279",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "communication",
+     "computer vision",
+     "git",
+     "machine learning",
+     "python",
+     "r",
+     "research"
+    ],
+    "gaps": [
+     "statistics"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "work_types",
+     "match": true
+    },
+    {
+     "preference": "relocate",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "7/11 core skills match; location uncertain; research overlap: none stated.",
+   "score": 0.445,
+   "why_shown": [
+    "7 core skills match (communication, computer vision, git, machine learning)",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "638d7db40332",
+  "_id": "287858873a26",
+  "created_at": "2026-09-18T13:02:06Z"
+ },
+ {
+  "opportunity_id": "73b4c47e1bea",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "aws",
+     "communication",
+     "docker",
+     "git",
+     "llm",
+     "machine learning",
+     "python",
+     "r",
+     "sql"
+    ],
+    "gaps": []
+   },
+   "preference_match": [
+    {
+     "preference": "work_types",
+     "match": true
+    },
+    {
+     "preference": "relocate",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "9/11 core skills match; location uncertain; research overlap: none stated.",
+   "score": 0.573,
+   "why_shown": [
+    "9 core skills match (aws, communication, docker, git)",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "638d7db40332",
+  "_id": "1cf587085d5d",
+  "created_at": "2026-09-18T13:02:09Z"
+ },
+ {
+  "opportunity_id": "d949dd8c31ee",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "machine learning"
+    ],
+    "gaps": []
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [],
+   "rationale": "1/2 core skills match; location uncertain; research overlap: none stated.",
+   "score": 0.35,
+   "why_shown": [
+    "1 core skills match (machine learning)",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "638d7db40332",
+  "_id": "1f7cfe9dcd22",
+  "created_at": "2026-09-18T13:06:52Z"
+ },
+ {
+  "opportunity_id": "48fb914b270a",
+  "user_id": "demo-user",
+  "match": {
+   "eligibility": {
+    "status": "likely_eligible",
+    "matched": [
+     "education-present"
+    ],
+    "uncertain": [
+     "location"
+    ],
+    "failed": []
+   },
+   "skill_match": {
+    "matched": [
+     "git",
+     "machine learning",
+     "python",
+     "pytorch"
+    ],
+    "gaps": [
+     "communication",
+     "data analysis",
+     "deep learning",
+     "llm",
+     "research",
+     "statistics",
+     "tensorflow"
+    ]
+   },
+   "preference_match": [
+    {
+     "preference": "likes",
+     "match": true
+    },
+    {
+     "preference": "dislikes",
+     "match": true
+    }
+   ],
+   "research_alignment": [
+    "llm"
+   ],
+   "rationale": "4/12 core skills match; location uncertain; research overlap: llm.",
+   "score": 0.233,
+   "why_shown": [
+    "4 core skills match (git, machine learning, python, pytorch)",
+    "research aligns: llm",
+    "eligibility likely met"
+   ]
+  },
+  "task_id": "638d7db40332",
+  "_id": "2c4f39894c91",
+  "created_at": "2026-09-18T13:20:37Z"
+ }
+]

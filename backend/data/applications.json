@@ -1,0 +1,257 @@
+[
+ {
+  "opportunity_id": "45bd3ef2bf6b",
+  "user_id": "demo-user",
+  "materials": {
+   "resume_tips": [
+    "Highlight your skills in Python, machine learning, and NLP prominently.",
+    "Include your project on sentiment classification with transformers in detail, explaining your role and the technologies used.",
+    "Since you have no formal experience, focus on relevant coursework or personal projects that demonstrate your skills.",
+    "Consider adding any relevant coursework or academic achievements related to AI or machine learning.",
+    "If you have any online certifications or courses, include them to strengthen your resume."
+   ],
+   "cover_letter": "Dear [Hiring Manager],\n\nI am writing to express my interest in the AI Research Internship position. I am currently pursuing a B.Tech in Computer Science and have developed a strong foundation in machine learning and natural language processing through my academic projects, including a sentiment classifier using transformers.\n\nI am particularly drawn to this internship as it aligns with my research interests in NLP and large language models. I am eager to contribute to innovative projects and gain hands-on experience in a research environment.\n\nI am looking for a position that allows me to grow my skills and contribute meaningfully, and I believe this opportunity would be an ideal fit. I am available for remote work and am committed to delivering high-quality results.\n\nThank you for considering my application. I look forward to the opportunity to discuss my candidacy further.\n\nSincerely,\nDemo Applicant\n",
+   "checklist": [
+    "Prepare an updated CV highlighting your skills and projects.",
+    "Gather university transcripts or offer letter.",
+    "Draft a research statement outlining your interests in NLP and LLMs.",
+    "Request two letters of recommendation from professors or mentors who can speak to your abilities."
+   ],
+   "prep_plan": [
+    "Research the organization and its current projects in AI and NLP.",
+    "Identify potential referees for your letters of recommendation and approach them early.",
+    "Draft your research statement, focusing on your interests and how they align with the internship.",
+    "Practice common interview questions related to AI and machine learning to prepare for potential interviews."
+   ]
+  },
+  "status": "draft",
+  "task_id": "18e6ee9d752d",
+  "_id": "6176cd2f7e18",
+  "created_at": "2026-09-18T11:50:34Z"
+ },
+ {
+  "opportunity_id": "50377ca64598",
+  "user_id": "demo-user",
+  "materials": {
+   "resume_tips": [
+    "Highlight your education prominently since you are currently pursuing a B.Tech in Computer Science.",
+    "Include your project on 'Sentiment classifier with transformers' in the experience section to showcase practical application of your skills.",
+    "Emphasize your skills in Python, machine learning, and NLP, as they are relevant to the AI Research Intern position.",
+    "Consider adding any relevant coursework or academic projects that demonstrate your understanding of AI and research methodologies."
+   ],
+   "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the AI Research Intern position at Sony Research India. As a B.Tech student in Computer Science with a strong foundation in Python, machine learning, and natural language processing, I am excited about the opportunity to contribute to your team.\n\nI have recently completed a project on a sentiment classifier using transformers, which has deepened my understanding of NLP and its applications. I am particularly drawn to this internship because of my keen interest in research, especially in the areas of NLP and large language models.\n\nI am eager to learn and grow in a dynamic research environment, and I believe that my skills and enthusiasm make me a strong candidate for this position. I am looking forward to the possibility of discussing my application further.\n\nThank you for considering my application.\n\nSincerely,\nDemo Applicant\n",
+   "checklist": [
+    "Ensure your resume includes your education and relevant skills.",
+    "List your project experience clearly, detailing your role and technologies used.",
+    "Tailor your cover letter to reflect your interest in the specific internship and how your skills align with the role.",
+    "Proofread your application materials for clarity and professionalism."
+   ],
+   "prep_plan": [
+    "Research Sony Research India and their current projects to tailor your application.",
+    "Prepare for potential interviews by reviewing common interview questions related to AI and NLP.",
+    "Consider seeking out additional research opportunities or coursework to fill the skill gap in research.",
+    "Network with professionals in the field to gain insights and advice on securing research internships."
+   ]
+  },
+  "status": "draft",
+  "task_id": "18e6ee9d752d",
+  "_id": "6f6b6389e1d5",
+  "created_at": "2026-09-18T12:52:10Z"
+ },
+ {
+  "opportunity_id": "d949dd8c31ee",
+  "user_id": "demo-user",
+  "materials": {
+   "resume_tips": [
+    "Highlight your education prominently, including your B.Tech in Computer Science.",
+    "Emphasize your skills in Python, machine learning, PyTorch, SQL, Git, and NLP in a dedicated skills section.",
+    "Include your project on the sentiment classifier with transformers in a projects section, detailing your role and the technologies used.",
+    "If applicable, mention any relevant coursework or academic projects related to machine learning or NLP.",
+    "Since you have no formal experience, focus on your projects and any relevant academic achievements.",
+    "Tailor your resume to reflect the requirements and responsibilities mentioned in the internship description."
+   ],
+   "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the Machine Learning Internship at Sparks To Ideas. As a final year B.Tech student in Computer Science, I have developed a strong foundation in machine learning and artificial intelligence, particularly through my project on a sentiment classifier using transformers.\n\nI am passionate about applying theoretical knowledge to real-world problems and am eager to gain hands-on experience in a supportive and learning-focused environment. I am proficient in Python, PyTorch, SQL, and have a keen interest in NLP and LLMs, which aligns well with the objectives of your internship program.\n\nI am excited about the opportunity to contribute to your team and learn from industry professionals. Thank you for considering my application. I look forward to the possibility of discussing this exciting opportunity with you.\n\nSincerely,\nDemo Applicant\nEmail: demo@example.com\n",
+   "checklist": [
+    "Ensure your resume is up to date with your latest education and skills.",
+    "Customize your resume and cover letter for the Machine Learning Internship.",
+    "Prepare to discuss your project on the sentiment classifier during interviews.",
+    "Research Sparks To Ideas and their projects to understand their work culture and expectations.",
+    "Practice common interview questions related to machine learning and your projects."
+   ],
+   "prep_plan": [
+    "Review machine learning concepts and algorithms relevant to the internship.",
+    "Work on additional projects or exercises to strengthen your practical skills.",
+    "Connect with professionals in the field through networking platforms like LinkedIn.",
+    "Consider mock interviews to practice articulating your experiences and skills.",
+    "Stay updated on the latest trends in AI and machine learning to discuss during interviews."
+   ]
+  },
+  "status": "draft",
+  "task_id": "638d7db40332",
+  "_id": "3e13fde967d5",
+  "created_at": "2026-09-18T13:07:07Z"
+ },
+ {
+  "opportunity_id": "48fb914b270a",
+  "user_id": "demo-user",
+  "materials": {
+   "resume_tips": [
+    "Highlight your project on 'Sentiment classifier with transformers' prominently in your resume, detailing your role and the technologies used.",
+    "Include any relevant coursework or academic projects that demonstrate your understanding of machine learning and AI concepts.",
+    "Consider adding a section for relevant online courses or certifications in AI/ML, especially if they cover deep learning or statistics.",
+    "Emphasize your skills in Python and PyTorch, as they are directly relevant to the internship role.",
+    "If you have any experience with data analysis or research, even if informal, include that to strengthen your application."
+   ],
+   "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the AI/ML Intern position at BharatTech. As a B.Tech student specializing in Computer Science, I have developed a strong foundation in machine learning and natural language processing, particularly through my project on a sentiment classifier using transformers. I am passionate about advancing my skills in AI and contributing to innovative projects that align with BharatTech's vision of making intelligence accessible.\n\nI am particularly drawn to this opportunity because of BharatTech's commitment to building next-generation intelligence infrastructure. I am eager to support the design, development, and evaluation of machine learning models, and I believe my skills in Python, PyTorch, and SQL will be valuable in this role. Additionally, I am excited about the prospect of collaborating with engineers and researchers to optimize performance and integrate models into experimental systems.\n\nI am looking for a research internship that allows me to work remotely, and I am enthusiastic about the chance to contribute to BharatTech's initiatives. I am committed to continuous learning and am eager to enhance my skills in areas such as deep learning and statistics.\n\nThank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team.\n\nSincerely,\nDemo Applicant\n",
+   "checklist": [
+    "Ensure your resume includes your education details and relevant skills.",
+    "List your project experience clearly, with a focus on technologies used.",
+    "Tailor your cover letter to reflect your interest in BharatTech and the specific role.",
+    "Proofread your application materials for clarity and correctness.",
+    "Prepare for potential interview questions related to machine learning and your project work."
+   ],
+   "prep_plan": [
+    "Research BharatTech's projects and initiatives to understand their work better.",
+    "Practice explaining your sentiment classifier project, focusing on the challenges faced and solutions implemented.",
+    "Work on improving your communication skills, perhaps through mock interviews or presentations.",
+    "Consider taking online courses to fill the identified skill gaps, particularly in deep learning and statistics.",
+    "Set up a schedule for regular study and practice sessions to enhance your understanding of AI/ML concepts."
+   ]
+  },
+  "status": "draft",
+  "task_id": "638d7db40332",
+  "_id": "689b639ab0d9",
+  "created_at": "2026-09-18T13:20:46Z"
+ },
+ {
+  "opportunity_id": "48fb914b270a",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "resume": {
+   "name": "OMKAR KUDALKAR",
+   "email": "kudalkaromkar44@gmail.com",
+   "phone": "+91 8433550728",
+   "location": "Mumbai, India",
+   "links": {
+    "linkedin": "https://linkedin.com/in/omkar-kudalkar",
+    "github": "https://github.com/OmkarKudalkar23",
+    "website": ""
+   },
+   "summary": "Detail-oriented B.Tech student in Computer Science with hands-on experience in AI/ML projects, data analysis, and machine learning models. Proven ability to communicate complex concepts effectively and collaborate in agile environments. Strong foundation in statistics and mathematics applied to machine learning.",
+   "experience": [
+    {
+     "title": "Hooman Labs|Founders Office Intern",
+     "company": "unified outgoing-call analysis database and automate customer onboarding.",
+     "years": "Apr 2026 – Present",
+     "summary": "Built secure CRM integrations (HubSpot, Shopify, CleverTap) for enterprise clients (GIVA, Palmonas), linking APIs to build a Cut prompt token usage from 13–20K to under 5K per call by optimizing call-flow logic and prompt design, reducing per-call cost while maintaining conversation quality for clients like Careers360. Built QA metrics to analyze call recordings for disconnections and mid-call gaps, and collaborated with founders/engineers in an agile workflow to scope requirements and ship reliable solutions."
+    },
+    {
+     "title": "IIT Patna|Research Intern",
+     "company": "execution than sequential processing with fault-tolerant graceful degradation.",
+     "years": "Apr 2026 – Present",
+     "summary": "Architected an 11-agent parallel processing pipeline (Python, asyncio.gather()) with 3-wave orchestration, achieving 3–4× faster execution. Engineered a Graph-RAG retrieval pipeline using Neo4j subgraph extraction, cutting LLM context-window token usage by 86% (30K to under 6K tokens/query) through debugging and iterative tuning of retrieval logic. 1st Place (Winner) – HackXelerate 2026 (VJTI Mumbai) 200+ Teams – Developed an AI-powered smart waste management platform using OpenCV for waste detection."
+    }
+   ],
+   "education": [
+    {
+     "school": "Dwarkadas Jivanlal Sanghvi College of Engineering",
+     "degree": "B.Tech",
+     "field": "Computer Science",
+     "years": "Sep 2024 – June 2028"
+    },
+    {
+     "school": "FIITJEE",
+     "degree": "12th",
+     "field": "Computer Application",
+     "years": "2023"
+    },
+    {
+     "school": "N.L. Dalmia High School",
+     "degree": "10th",
+     "field": "Computer Application",
+     "years": "2021"
+    }
+   ],
+   "skills": [
+    "AWS",
+    "C++",
+    "CD",
+    "CI",
+    "Computer Vision",
+    "DBMS",
+    "Docker",
+    "Express.js",
+    "Framer Motion",
+    "Git",
+    "Java",
+    "JavaScript",
+    "Kafka",
+    "Kubernetes",
+    "LLM",
+    "LangChain",
+    "LangGraph",
+    "Languages:Python",
+    "Microservices Frontend:Next.js",
+    "MongoDB",
+    "Neo4j",
+    "Netlify",
+    "Node.js",
+    "OOP",
+    "Python",
+    "REST APIs",
+    "React",
+    "Render",
+    "Research",
+    "SQL",
+    "Three.js",
+    "Unit Testing",
+    "Vercel",
+    "communication",
+    "machine learning",
+    "n8n",
+    "r",
+    "transformers"
+   ],
+   "projects": [
+    {
+     "title": "Nolan AI Studio",
+     "summary": "Developed an AI project focused on generative intelligence and machine learning applications."
+    },
+    {
+     "title": "Multi-Agent Research Paper Analyzer",
+     "summary": "Created a tool for analyzing research papers using AI techniques and models."
+    }
+   ]
+  },
+  "resume_answers": [
+   {
+    "id": 1,
+    "question": "Do you have experience in communication specifically related to AI/ML projects? Describe it or say no.",
+    "answer": "Yes i have made AIML projects like nolan AI studio and multi agent research paper analyser"
+   },
+   {
+    "id": 2,
+    "question": "Do you have experience with data analysis techniques or tools? Describe it or say no.",
+    "answer": "yes like SQL , Pandas"
+   },
+   {
+    "id": 3,
+    "question": "Do you have experience with deep learning frameworks such as TensorFlow? Describe it or say no.",
+    "answer": "nope"
+   },
+   {
+    "id": 4,
+    "question": "Have you worked on any projects or research involving LLM (Large Language Models)? Describe it or say no.",
+    "answer": "yes very much like generative AI and agentic ai"
+   },
+   {
+    "id": 5,
+    "question": "Do you have any background in statistics that you can apply to machine learning? Describe it or say no.",
+    "answer": "yes i have solid understanding like i know maths behind ml like gradient descent , backproporgation and all ml model math like decsion tree random forest adaboost"
+   }
+  ],
+  "resume_mode": "llm",
+  "task_id": "638d7db40332",
+  "_id": "78b88b50de30",
+  "created_at": "2026-09-18T13:43:22Z"
+ }
+]

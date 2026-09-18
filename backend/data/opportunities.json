@@ -1,0 +1,1328 @@
+[
+ {
+  "title": "AI Research Intern",
+  "organization": "Demo University Lab",
+  "location": "Bengaluru, India",
+  "description": "Work on NLP and LLMs. Requires Python, PyTorch, machine learning. B.Tech students eligible.",
+  "source_url": "https://example.com/ai-research-intern",
+  "canonical_url": "example.com/ai-research-intern",
+  "source_engine": "seed",
+  "requirements": [
+   "Python",
+   "PyTorch",
+   "B.Tech student"
+  ],
+  "skills_hint": [
+   "python",
+   "pytorch",
+   "machine learning"
+  ],
+  "status": "DISCOVERED",
+  "user_id": "demo-user",
+  "_id": "700616032a24",
+  "created_at": "2026-09-18T10:03:34Z"
+ },
+ {
+  "title": "Machine Learning Intern (Remote)",
+  "organization": "Demo AI Startup",
+  "location": "Remote, India",
+  "description": "Build ML pipelines. Requires Python, SQL, Docker. CUDA a plus.",
+  "source_url": "https://example.com/ml-intern",
+  "canonical_url": "example.com/ml-intern",
+  "source_engine": "seed",
+  "requirements": [
+   "Python",
+   "SQL"
+  ],
+  "skills_hint": [
+   "python",
+   "sql",
+   "docker"
+  ],
+  "status": "DISCOVERED",
+  "user_id": "demo-user",
+  "_id": "baa5051f707c",
+  "created_at": "2026-09-18T10:03:34Z"
+ },
+ {
+  "task_id": "2c5e826db50f",
+  "user_id": "demo-user",
+  "title": "Work with us - Apple Machine Learning Research",
+  "organization": "",
+  "location": "",
+  "description": "The AIML Residency Program invites experts in various fields to apply their own domain expertise to innovate and build revolutionary machine learning and AI- ...",
+  "source_url": "https://machinelearning.apple.com/work-with-us",
+  "canonical_url": "machinelearning.apple.com/work-with-us",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "machine learning",
+   "r"
+  ],
+  "status": "SHORTLISTED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "3feac8abb6ab",
+  "created_at": "2026-09-18T10:06:13Z",
+  "investigation": {
+   "organization_summary": "",
+   "research_alignment": "",
+   "people_found": [
+    {
+     "name": "Text Mining and Machine Learning on 10-K Risk Factors and Net Income: Evidence from Apple",
+     "context": "… are merged using the JOIN command (key = source_file) to create the final research dataset. … This research highlights the broader value of JCAATs as a financial analytics platform. By …",
+     "url": "https://www.icaea.net/English/Publication/Abstract/IJCA_2025_02.pdf"
+    },
+    {
+     "name": "Apple: Toward general active perception via reinforcement learning",
+     "context": "… Active perception is a fundamental skill that enables us humans … this work introduces APPLE (Active Perception Policy Learning… tial future research avenue will be deploying APPLE on a …",
+     "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/9e8c2895db691eaab85af37bddee75aa-Abstract-Conference.html"
+    },
+    {
+     "name": "'I am he. I am he. Siri rules': Work and play with the Apple Watch",
+     "context": "… terms of work and quantifiable data. Wearable devices like the Apple Watch encourage us to … I duly reply that it is for research reasons only, that it’s for work. After a while, Clancy takes …",
+     "url": "https://journals.sagepub.com/doi/abs/10.1177/1367549417705605"
+    }
+   ],
+   "recent_developments": [
+    {
+     "title": "Introducing the Third Generation of Apple’s Foundation Models",
+     "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+     "date": "06/08/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+     "title": "ParaRNN: Large-Scale Nonlinear RNNs, Trainable in Parallel",
+     "url": "https://machinelearning.apple.com/research/large-scale-rnns",
+     "date": "04/23/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+     "title": "Meet Amar Subramanya, the 46-year-old Google and Microsoft veteran who will steer Apple AI strategy",
+     "url": "https://fortune.com/2025/12/02/amar-subramanya-apple-ai-veteran-google-microsoft-career-research-education-machine-learning/",
+     "date": "12/02/2025, 08:00 AM, +0000 UTC"
+    }
+   ],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": [
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "Text Mining and Machine Learning on 10-K Risk Factors and Net Income: Evidence from Apple",
+     "sourceUrl": "https://www.icaea.net/English/Publication/Abstract/IJCA_2025_02.pdf",
+     "evidenceText": "… are merged using the JOIN command (key = source_file) to create the final research dataset. … This research highlights the broader value of JCAATs as a financial analytics platform. By …",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "Apple: Toward general active perception via reinforcement learning",
+     "sourceUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/9e8c2895db691eaab85af37bddee75aa-Abstract-Conference.html",
+     "evidenceText": "… Active perception is a fundamental skill that enables us humans … this work introduces APPLE (Active Perception Policy Learning… tial future research avenue will be deploying APPLE on a …",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "'I am he. I am he. Siri rules': Work and play with the Apple Watch",
+     "sourceUrl": "https://journals.sagepub.com/doi/abs/10.1177/1367549417705605",
+     "evidenceText": "… terms of work and quantifiable data. Wearable devices like the Apple Watch encourage us to … I duly reply that it is for research reasons only, that it’s for work. After a while, Clancy takes …",
+     "confidenceState": "UNVERIFIED"
+    }
+   ]
+  },
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "SHORTLISTED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    }
+   }
+  },
+  "match_summary": {
+   "score": 0.3,
+   "rationale": "0/2 core skills match; location compatible; research overlap: none stated.",
+   "gaps": [
+    "machine learning",
+    "r"
+   ]
+  }
+ },
+ {
+  "task_id": "2c5e826db50f",
+  "user_id": "demo-user",
+  "title": "AI applied engineer - Voice first (Internship) at SuperKalam",
+  "organization": "",
+  "location": "",
+  "description": "Job type. Internship ; Role. Engineering, Machine learning ; School year. Senior and above ; Visa. US citizenship/visa not required ; Skills. Node.js, Python, ...",
+  "source_url": "https://www.ycombinator.com/companies/superkalam/jobs/DKwCjWa-ai-applied-engineer-voice-first-internship",
+  "canonical_url": "ycombinator.com/companies/superkalam/jobs/dkwcjwa-ai-applied-engineer-voice-first-internship",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "machine learning",
+   "python",
+   "r"
+  ],
+  "status": "SHORTLISTED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "4aef08e24e45",
+  "created_at": "2026-09-18T10:06:13Z",
+  "investigation": {
+   "organization_summary": "",
+   "research_alignment": "",
+   "people_found": [],
+   "recent_developments": [],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": []
+  },
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "SHORTLISTED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    }
+   }
+  },
+  "match_summary": {
+   "score": 0.3,
+   "rationale": "0/3 core skills match; location compatible; research overlap: none stated.",
+   "gaps": [
+    "machine learning",
+    "python",
+    "r"
+   ]
+  }
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "AI Research Internships",
+  "organization": "",
+  "location": "",
+  "description": "Application requirements: CV; University transcripts … or offer letter; Research Statement and Two letters of recommendation",
+  "source_url": "https://vectorinstitute.ai/research-talent/students/ai-research-internships/",
+  "canonical_url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "r",
+   "research"
+  ],
+  "status": "VERIFIED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "45bd3ef2bf6b",
+  "created_at": "2026-09-18T10:41:26Z",
+  "investigation": {
+   "organization_summary": "",
+   "research_alignment": "",
+   "people_found": [
+    {
+     "name": "From learners to contributors: how an AI-infused STEM program shaped youth identity and initiated them to an AI-future",
+     "context": "… inquiry, followed by ML-heavy research internships. We hypothesized that providing high … AI would not only build their technical knowledge, but also expand their understanding of AI’s …",
+     "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1811339/full"
+    },
+    {
+     "name": "Using AI Strategically for Internship & Job Search: Using AI to Think Better, Not Just Faster",
+     "context": "… This is a big difference AI not only finds jobs or internships for you, but also understands … Undergraduate Internship at the Museum of Fine Arts, Boston. Your goal is not to ask AI to write …",
+     "url": "https://scholarworks.umb.edu/ai_pubs/35/"
+    },
+    {
+     "name": "Design of Research Internships for Undergraduate Engineering Students: A Framework for Bridging Academia and Industry",
+     "context": "… trajectories of mental health outcomes using AI-aided mechanisms, which impacts on an actual worldwide problem. This research internship strengthens the collaboration with the …",
+     "url": "https://peer.asee.org/design-of-research-internships-for-undergraduate-engineering-students-a-framework-for-bridging-academia-and-industry"
+    }
+   ],
+   "recent_developments": [],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": [
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "From learners to contributors: how an AI-infused STEM program shaped youth identity and initiated them to an AI-future",
+     "sourceUrl": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1811339/full",
+     "evidenceText": "… inquiry, followed by ML-heavy research internships. We hypothesized that providing high … AI would not only build their technical knowledge, but also expand their understanding of AI’s …",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "Using AI Strategically for Internship & Job Search: Using AI to Think Better, Not Just Faster",
+     "sourceUrl": "https://scholarworks.umb.edu/ai_pubs/35/",
+     "evidenceText": "… This is a big difference AI not only finds jobs or internships for you, but also understands … Undergraduate Internship at the Museum of Fine Arts, Boston. Your goal is not to ask AI to write …",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "Design of Research Internships for Undergraduate Engineering Students: A Framework for Bridging Academia and Industry",
+     "sourceUrl": "https://peer.asee.org/design-of-research-internships-for-undergraduate-engineering-students-a-framework-for-bridging-academia-and-industry",
+     "evidenceText": "… trajectories of mental health outcomes using AI-aided mechanisms, which impacts on an actual worldwide problem. This research internship strengthens the collaboration with the …",
+     "confidenceState": "UNVERIFIED"
+    }
+   ]
+  },
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "DISCOVERED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    }
+   }
+  },
+  "match_summary": {
+   "score": 0.3,
+   "rationale": "0/2 core skills match; location compatible; research overlap: none stated.",
+   "gaps": [
+    "r",
+    "research"
+   ]
+  }
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "425 Artificial Intelligence Intern jobs in India",
+  "organization": "",
+  "location": "",
+  "description": "AI/ML Internship | LLM • RAG • Agentic AI | Real Projects | Apply Now ... AI Research Internship. Lexsi Labs. Mumbai Metropolitan Region 2 months ago.",
+  "source_url": "https://in.linkedin.com/jobs/artificial-intelligence-intern-jobs",
+  "canonical_url": "in.linkedin.com/jobs/artificial-intelligence-intern-jobs",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "llm",
+   "research"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "453d012f01ed",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Internships",
+  "organization": "",
+  "location": "",
+  "description": "Undergraduate or graduate students in AI-related fields are invited to apply for full-time research internships with us year-round. All interns are paired with ...",
+  "source_url": "https://allenai.org/internships",
+  "canonical_url": "allenai.org/internships",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "r",
+   "research"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "024c354502e4",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "255 Artificial Intelligence (AI) Internships",
+  "organization": "",
+  "location": "",
+  "description": "Apply for 255+ artificial intelligence (ai) internships on Internshala. ₹ 5,000 - 7,000 /month. Research AI tools and suggest ways to improve workflow ...",
+  "source_url": "https://internshala.com/internships/artificial-intelligence-ai-internship/",
+  "canonical_url": "internshala.com/internships/artificial-intelligence-ai-internship",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "r",
+   "research"
+  ],
+  "status": "MONITORING",
+  "deadline": "",
+  "evidence": [],
+  "_id": "d56469a0b4d0",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Careers & Job Openings",
+  "organization": "",
+  "location": "",
+  "description": "AI Research Intern. Location: Bengaluru, India (Remote) Duration: 6 months ... \"The internship at Sony Research India was truly exceptional, offering a great ...",
+  "source_url": "https://www.sonyresearchindia.com/careers/",
+  "canonical_url": "sonyresearchindia.com/careers",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "research"
+  ],
+  "status": "APPLICATION_READY",
+  "deadline": "",
+  "evidence": [],
+  "_id": "50377ca64598",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Internships in India for DA/DS/ML/AI Roles",
+  "organization": "",
+  "location": "",
+  "description": "Internships in India for DA/DS/ML/AI Roles · Here are some links through which you might be able to find Internships based on your interests.",
+  "source_url": "https://www.kaggle.com/getting-started/187186",
+  "canonical_url": "kaggle.com/getting-started/187186",
+  "source_engine": "google",
+  "requirements": [],
+  "skills_hint": [
+   "r"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "2bce10cac260",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Engaging community college students in artificial intelligence research through an nsf-funded summer research internship program",
+  "organization": "",
+  "location": "",
+  "description": "… research internship project in four research labs at a four-year university. One of the internship … college students in the realm of artificial intelligence (AI) research. By focusing on the …",
+  "source_url": "https://par.nsf.gov/biblio/10540701",
+  "canonical_url": "par.nsf.gov/biblio/10540701",
+  "source_engine": "google_scholar",
+  "requirements": [],
+  "skills_hint": [
+   "r",
+   "research"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "b2526c080538",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "From lab to internship and back again: Learning autonomous systems through creating a research and development ecosystem",
+  "organization": "",
+  "location": "",
+  "description": "… In this paper, we introduce a 14 week, summer long internship for developing these skills in undergraduate science and engineering interns through R&D. The internship was designed …",
+  "source_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5027",
+  "canonical_url": "ojs.aaai.org/index.php/aaai/article/view/5027",
+  "source_engine": "google_scholar",
+  "requirements": [],
+  "skills_hint": [
+   "r"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "47a7c6817b56",
+  "created_at": "2026-09-18T10:41:26Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Impact of a Multimodal Blended Learning Approach on Theoretical Knowledge, Practical Skills, and AI Competency Among Medical Laboratory Technology Interns",
+  "organization": "",
+  "location": "",
+  "description": "… characteristics or pre-internship assessments (all p > 0.05). Post-… Regarding AI-integrated teaching, the intervention group … blended PBL/CBL/AI internship model effectively mitigated the …",
+  "source_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1831884/full",
+  "canonical_url": "frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1831884/full",
+  "source_engine": "google_scholar",
+  "requirements": [],
+  "skills_hint": [
+   "r"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "648342ed29ce",
+  "created_at": "2026-09-18T10:41:27Z"
+ },
+ {
+  "task_id": "18e6ee9d752d",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Design of Research Internships for Undergraduate Engineering Students: A Framework for Bridging Academia and Industry",
+  "organization": "",
+  "location": "",
+  "description": "… trajectories of mental health outcomes using AI-aided mechanisms, which impacts on an actual worldwide problem. This research internship strengthens the collaboration with the …",
+  "source_url": "https://peer.asee.org/design-of-research-internships-for-undergraduate-engineering-students-a-framework-for-bridging-academia-and-industry",
+  "canonical_url": "peer.asee.org/design-of-research-internships-for-undergraduate-engineering-students-a-framework-for-bridging-academia-and-industry",
+  "source_engine": "google_scholar",
+  "requirements": [],
+  "skills_hint": [
+   "research"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "ed5716c67de1",
+  "created_at": "2026-09-18T10:41:27Z"
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "Artificial Intelligence (AI) Internship in Mumbai",
+  "organization": "Plix",
+  "location": "Indien",
+  "description": "About The Internship\n\nPLIX is looking for a curious, creative and tech-savvy AI Content Experimentation Intern who loves exploring new AI tools and figuring out how they can be used to create better and faster content.\n\nThis is an AI Content Experimentation Internship, where you will spend your time experimenting with AI tools, testing new content formats, exploring AI-generated video and audio, building AI workflows and discovering new ways to use AI for content creation.\n\nIf you are someone who is constantly trying new AI tools, testing prompts, discovering AI hacks and thinking about “What else can AI do?”, this role is for you.\n\nKey Responsibilities\n\n Experiment with different AI content generation platforms and tools.\n\nCreate and test AI-generated videos using tools such as Runway, Kling, Veo, CapCut AI, Adobe Firefly, etc.\n\n Experiment with AI audio generation, including voiceovers, music and sound effects. Ideate and test new AI-first content concepts and formats. Explore AI automation and identify ways to automate repetitive content workflows. Test different AI tools, prompts and workflows to improve content quality. Research and discover new AI tools, features, trends and hacks. Experiment with AI-generated images, videos, scripts, audio and other content formats. Document useful AI tools, prompts, workflows and experiments. Work with the content and creative teams to turn successful experiments into real-world content. Continuously test what works and what doesn't across different AI tools.\n\nSkills Required\n\n Hands-on experience with AI tools and platforms. Understanding of AI content generation. Experience with or strong interest in AI video generation. Experience with or strong interest in AI audio/voice generation. Basic understanding of AI automation and workflows. Strong curiosity and willingness to experiment. Creative mindset and good content ideation skills. Ability to quickly learn and test new tools.\n\nGood to Have\n\n Experience with tools such as ChatGPT, Runway, Kling, Veo, CapCut AI, Adobe Firefly, ElevenLabs, etc. Experience with Make, Zapier, n8n or other automation platforms. Basic video editing knowledge. Knowledge of prompt engineering. Previous AI-generated content or project portfolio.\n\nWho Can Apply?\n\n Students or recent graduates from AI/ML, Computer Science, Design, Media, Marketing or related fields. Candidates who actively experiment with AI tools. Candidates with previous experience creating AI-generated content. Candidates who can share a portfolio or work samples of their AI experiments/projects.\n\nAbout Company: Plix offers all-natural plant-based products that are designed to make wellness and beauty fun! Plixlife, recently acquired by FMCG giant Marico, is all set to strengthen its vision and goal of making wellness and beauty fun. With a team of 150 young individuals, Plix has scaled 10x in the past 12 months and become the leader in plant-based nutrition and beauty. If you're ready to be a part of a plant-based revolution and work as a part of a young, dynamic, and agile team of go-getters, apply with us.",
+  "source_url": "https://in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-mumbai-at-plix-4467923163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-mumbai-at-plix-4467923163",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-mumbai-at-plix-4467923163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-mumbai-at-plix-4467923163?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [],
+  "skills_hint": [
+   "r",
+   "research"
+  ],
+  "status": "SHORTLISTED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "14e164e8aead",
+  "created_at": "2026-09-18T12:51:25Z",
+  "investigation": {
+   "organization_summary": "We are currently accepting rolling applications for our 2026 intern class. Please see below for details about the internship program and how to apply. About the ...",
+   "research_alignment": "",
+   "people_found": [
+    {
+     "name": "Cultural Bias in AI-Generated Educational Content: A Comparative Analysis of ChatGPT, Gemini, and Claude",
+     "context": "… artificial intelligence (AI) technologies is expressly prohibited. The publisher reserves all rights to license its use for generative AI training and machine learning … complex contextual and …",
+     "url": "https://www.igi-global.com/chapter/cultural-bias-in-ai-generated-educational-content/420080"
+    },
+    {
+     "name": "India Higher Education Report 2024",
+     "context": "… former professor of SJMSOM, IIT Bombay. He has senior-level … fellowships and an internship from UNESCO Hamburg, he … digital technologies like artificial intelligence (AI) and robotics …",
+     "url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781003625230&type=googlepdf"
+    },
+    {
+     "name": "LIVES OF DATA ESSAYS ON COMPUTATIONAL CULTURES FROM INDIA EDITED BY",
+     "context": "… Review that ‘India’s mess of complexity is just what AI needs’, to help train the machine … Working out of a small office in Worli, Bombay, Variava and Bijlani systematically purchased …",
+     "url": "https://publish.fid-media.de/server/api/core/bitstreams/e5415bd9-1747-4c59-9424-31633b6c6e00/content"
+    }
+   ],
+   "recent_developments": [],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": [
+    {
+     "claim": "organization context: Plix",
+     "sourceType": "google",
+     "sourceTitle": "CNAS Is Accepting 2026 Internship Applications",
+     "sourceUrl": "https://www.cnas.org/careers/internships",
+     "evidenceText": "We are currently accepting rolling applications for our 2026 intern class. Please see below for details about the internship program and how to apply. About the ...",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: Plix",
+     "sourceType": "google",
+     "sourceTitle": "Legislative Internship - Tennessee General Assembly",
+     "sourceUrl": "https://wapp.capitol.tn.gov/apps/Directories/LegislativeInternship",
+     "evidenceText": "Learn about the Tennessee Legislative Internship Program: eligibility, benefits, duties, and faculty contacts for student applicants.",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: Plix",
+     "sourceType": "google",
+     "sourceTitle": "The Internship | Official Trailer | Paramount Movies",
+     "sourceUrl": "https://www.youtube.com/watch?v=uXRFha7MLTM",
+     "evidenceText": "A ruthless, highly trained assassin, raised from childhood in a top-secret CIA program known only as The Internship, Featuring: Lizzy Greene, ...",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "Cultural Bias in AI-Generated Educational Content: A Comparative Analysis of ChatGPT, Gemini, and Claude",
+     "sourceUrl": "https://www.igi-global.com/chapter/cultural-bias-in-ai-generated-educational-content/420080",
+     "evidenceText": "… artificial intelligence (AI) technologies is expressly prohibited. The publisher reserves all rights to license its use for generative AI training and machine learning … complex contextual and …",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "India Higher Education Report 2024",
+     "sourceUrl": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781003625230&type=googlepdf",
+     "evidenceText": "… former professor of SJMSOM, IIT Bombay. He has senior-level … fellowships and an internship from UNESCO Hamburg, he … digital technologies like artificial intelligence (AI) and robotics …",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "LIVES OF DATA ESSAYS ON COMPUTATIONAL CULTURES FROM INDIA EDITED BY",
+     "sourceUrl": "https://publish.fid-media.de/server/api/core/bitstreams/e5415bd9-1747-4c59-9424-31633b6c6e00/content",
+     "evidenceText": "… Review that ‘India’s mess of complexity is just what AI needs’, to help train the machine … Working out of a small office in Worli, Bombay, Variava and Bijlani systematically purchased …",
+     "confidenceState": "UNVERIFIED"
+    }
+   ]
+  },
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "SHORTLISTED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "Indien",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "Plix",
+     "state": "VERIFIED",
+     "evidence_count": 1
+    }
+   }
+  },
+  "match_summary": {
+   "score": 0.7,
+   "rationale": "2/2 core skills match; location uncertain; research overlap: none stated.",
+   "gaps": []
+  }
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "AI/ML Data Annotation Intern",
+  "organization": "Digantara",
+  "location": "Bangalore, Karnataka, Indien",
+  "description": "Digantara is a leading Space Surveillance and Intelligence company focused on ensuring \n\norbital safety and sustainability. With expertise in space-based detection, tracking, \n\nidentification, and monitoring, Digantara provides comprehensive domain awareness across \n\nregimes, allowing end users to have actionable intelligence on a single platform. At the core of \n\nits infrastructure lies a sophisticated integration of hardware and software capabilities aligned \n\nwith the key principles of situational awareness: perception (data collection), comprehension\n\n(data processing), and prediction (analytics). This holistic approach empowers Digantara to \n\nmonitor all Resident Space Objects (RSOs) in orbit, fostering comprehensive domain \n\nawareness.\n\n\n\nDigantara is seeking an AI/ML Data Annotation Intern to accurately annotate features such \n\nas blobs and streaks in SSA imagery captured from ground-based and space-based sensors. The \n\nintern will pre-process and tile the imagery into appropriate tile sizes to make the data machinelearning-ready. The role will also involve partially training, testing, and validating AI/ML \n\nmodels, along with reporting bugs and identifying hyperparameters that need to be tuned. \n\nWhy Us?Competitive incentives, galvanizing workspace, blazing team, frequent outings - pretty \n\nmuch everything you have heard about a start-up, and you get to work on space \n\ntechnology.\n\nHustle in a well-funded start-up, allowing you to take charge of your responsibilities \n\nand create your moonshot.\n\nIdeal Candidate:Someone with expertise in image-based data annotation for AI/ML, analytical visualization, \n\ntesting, and validation, preferably working with satellite imagery.\n\nResponsibilitiesAccurately annotate features such as blobs and streaks in SSA imagery using manual \n\nor semi-automatic annotation techniques.\n\nUse the existing AI/ML models or classical image processing pipelines to perform \n\nsemi-automatic annotation of the features.\n\nPre-process and tile the imagery according to model input requirements.\n\nAssist in training and testing the existing models using the prepared datasets, and \n\ndocument performance benchmarks for detection and classification tasks.\n\nReport errors and identify hyperparameters that need to be tuned during training and \n\nevaluation.\n\nRequired QualificationBachelor’s or Master’s degree in Electronics, Computer Science, Data Science, \n\nArtificial Intelligence, Statistics, Astronomy, or any relevant field.\n\nFinal-year students (available for a full-time internship), freshers, or candidates with 0–\n\n2 years of academic, research, or industry experience, with a strong interest or aptitude \n\nin data annotation, image labelling, machine learning, and deep learning.\n\nBasic understanding of computer vision concepts and satellite imagery, including \n\ndifferent signal and noise conditions.\n\nStrong analytical, problem-solving, and critical-thinking skills.\n\nPreferred Skills Hands-on experience in image data annotation using tools such as CVAT, Roboflow, \n\nor similar annotation platforms.\n\nProficiency in Python, OpenCV, PyTorch or TensorFlow/Keras; familiarity with \n\nlibraries such as Astropy, Scikit-learn, SciPy, and other relevant libraries is an \n\nadvantage.\n\n Familiarity with developing deep learning networks such as CNNs for detection, \n\nsegmentation, and classification tasks.\n\nFamiliarity with Git and version-control workflows is an advantage.\n\nGeneral Requirements  Ability to work in a mission-focused, operational environment. \n\n Ability to think critically and make independent decisions. \n\n Interpersonal skills to enable working in a diverse and dynamic team. \n\n Maintain a regular and predictable work schedule. \n\n Writing and delivering technical documents and briefings. \n\nVerbal and written communication skills as well as organizational skills. \n\nTravel occasionally as necessary. \n\n\n\nJob Location: Hebbal, Bengaluru",
+  "source_url": "https://careers.kula.ai/digantara/54842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "careers.kula.ai/digantara/54842",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://careers.kula.ai/digantara/54842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://careers.kula.ai/digantara/54842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [
+   "Required QualificationBachelor’s or Master’s degree in Electronics, Computer Science, Data Science,",
+   "2 years of academic, research, or industry experience, with a strong interest or aptitude"
+  ],
+  "skills_hint": [
+   "communication",
+   "computer vision",
+   "deep learning",
+   "git",
+   "machine learning",
+   "python",
+   "pytorch",
+   "r",
+   "research",
+   "statistics",
+   "tensorflow"
+  ],
+  "status": "SHORTLISTED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "12e1d7f6c279",
+  "created_at": "2026-09-18T12:51:25Z",
+  "investigation": {
+   "organization_summary": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technologies.",
+   "research_alignment": "",
+   "people_found": [
+    {
+     "name": "Whose AI Dream? In search of the aspiration in data annotation.",
+     "context": "… Data is fundamental to AI/ML models. This paper investigates the work practices concerning data annotation as … Apart from the only freelancing annotator and the annotator intern, every …",
+     "url": "https://dl.acm.org/doi/abs/10.1145/3491102.3502121"
+    }
+   ],
+   "recent_developments": [],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": [
+    {
+     "claim": "organization context: Digantara",
+     "sourceType": "google",
+     "sourceTitle": "Google AI - How we're making AI helpful for everyone",
+     "sourceUrl": "https://ai.google/",
+     "evidenceText": "Discover how Google AI is committed to enriching knowledge, solving complex challenges and helping people grow by building useful AI tools and technologies.",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: Digantara",
+     "sourceType": "google",
+     "sourceTitle": "How to Stop AI from Killing Your Critical Thinking",
+     "sourceUrl": "https://www.youtube.com/watch?v=3lPnN8omdPA",
+     "evidenceText": "What Is an AI Anyway? · Anthropic's Chloe Lubinski explains how AI works (in 14 minutes) · AI & Education: Generative AI & the Future of Critical ...",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: Digantara",
+     "sourceType": "google",
+     "sourceTitle": "OpenAI | Research & Deployment",
+     "sourceUrl": "https://openai.com/",
+     "evidenceText": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems.",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "researcher/lab context",
+     "sourceType": "google_scholar",
+     "sourceTitle": "Whose AI Dream? In search of the aspiration in data annotation.",
+     "sourceUrl": "https://dl.acm.org/doi/abs/10.1145/3491102.3502121",
+     "evidenceText": "… Data is fundamental to AI/ML models. This paper investigates the work practices concerning data annotation as … Apart from the only freelancing annotator and the annotator intern, every …",
+     "confidenceState": "UNVERIFIED"
+    }
+   ]
+  },
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "SHORTLISTED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "Bangalore, Karnataka, Indien",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "Digantara",
+     "state": "VERIFIED",
+     "evidence_count": 1
+    }
+   }
+  },
+  "match_summary": {
+   "score": 0.445,
+   "rationale": "7/11 core skills match; location uncertain; research overlap: none stated.",
+   "gaps": [
+    "statistics"
+   ]
+  }
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "Machine Learning/ AI Intern",
+  "organization": "Paxcom",
+  "location": "Gurgaon, Haryana, Indien",
+  "description": "Who We are\nShort video abous us\nWe are a team of Ecommerce enthusiasts, passionate about using technology to simplify Digital Commerce and Payments for brands across the globe. Paxcom a leading Digital Solution Provider is a part of Paymentus now, a leading electronic bill payment provider. PaymentUs leads the North American marketplace in electronic bill payment solutions and have recently signed a partnership with Paypal, Alexa and Walmart.\n\n\nFor more details, please visit www.paymentus.com & www.paxcom.ai\n\n\nJob Location: Gurgaon  Work From Office\n\n\nDepartment: E-commerce\n\n\nExperience: 6months1 Year\n\n\nJob Summary\nWe are looking for a passionate and curious AI/ML Intern to join our fast-paced E-commerce team. This role offers an opportunity to gain hands-on experience in Machine Learning, Generative AI, LLMs, RAG, data processing, and AI application development while working on real-world projects.\n\n\nKey Responsibilities\n\n\n\nAssist in developing and testing machine learning and AI solutions for real-world business problems.\n\n\nWork with Python, Pandas, NumPy, and Scikit-learn for data processing and ML development.\n\n\nSupport experimentation with LLMs, Generative AI, RAG, and AI APIs.\n\n\nAssist in building prototypes and integrating AI models into applications.\n\n\nWork with structured and unstructured data using SQL and NoSQL databases.\n\n\nSupport model training, evaluation, debugging, and performance improvement.\n\n\nGain exposure to Docker, CI/CD, and cloud platforms such as AWS, GCP, or Azure.\n\n\nExplore emerging AI/ML models, frameworks, and techniques and share relevant findings with the team.\n\n\nCollaborate with senior engineers and cross-functional teams to understand requirements and implement solutions.\n\n\n\nEssential Skills\nProgramming:\n\nGood knowledge of Python\n\n\nFamiliarity with Pandas, NumPy, and data processing\n\n\n\nMachine Learning:\n\n\n\nBasic understanding of Machine Learning concepts\n\n\nFamiliarity with Scikit-learn\n\n\nExposure to PyTorch or TensorFlow is preferred\n\n\n\nGenerative AI / LLMs:\n\n\n\nBasic understanding of LLMs and Generative AI\n\n\nFamiliarity with RAG, embeddings, vector databases, or LLM APIs is a plus\n\n\nAcademic or personal projects involving OpenAI, Gemini, Claude, Llama, or similar models will be an advantage\n\n\n\nData Handling:\n\nBasic knowledge of SQL\n\n\nUnderstanding of data cleaning, preprocessing, and analysis\n\n\nExposure to NoSQL databases is a plus\n\n\n\nCloud & MLOps:\n\n\n\n\n\nBasic understanding of Docker, Git, and CI/CD\n\n\nExposure to AWS, GCP, or Azure is desirable\n\n\n\nWhat Were Looking For\n\n\n\nStrong interest in AI/ML and emerging technologies\n\n\nGood analytical and problem-solving skills\n\n\nWillingness to learn and experiment with new tools and models\n\n\nAbility to work independently while knowing when to seek guidance\n\n\nGood communication and collaboration skills A proactive, curious, and hands-on approach\n\n\nAbility to work in a fast-paced environment with changing priorities\n\n\n\nEducation\n\n\n\nRecently completed a B.Tech/B.E./M.Tech/MCA in Computer Science, AI/ML, Data Science, or a related field.\n\n\nCandidates with strong academic, personal, or GitHub AI/ML projects will be preferred.\n\n\n\nGood to Have\n\n\n\nML/AI internship or project experience\n\n\nKnowledge of RAG and vector databases\nExperience with LLM APIs\n\n\nFamiliarity with LangChain, LlamaIndex, Hugging Face, or similar frameworks\n\n\nParticipation in AI/ML hackathons or competitions\nStrong GitHub/project portfolio .",
+  "source_url": "https://www.shine.com/jobs/machine-learning-ai-intern/paxcom/19556754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "shine.com/jobs/machine-learning-ai-intern/paxcom/19556754",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://www.shine.com/jobs/machine-learning-ai-intern/paxcom/19556754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://www.shine.com/jobs/machine-learning-ai-intern/paxcom/19556754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [],
+  "skills_hint": [
+   "aws",
+   "communication",
+   "docker",
+   "git",
+   "llm",
+   "machine learning",
+   "python",
+   "pytorch",
+   "r",
+   "sql",
+   "tensorflow"
+  ],
+  "status": "SHORTLISTED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "73b4c47e1bea",
+  "created_at": "2026-09-18T12:51:25Z",
+  "investigation": {
+   "organization_summary": "Assist in developing and testing machine learning and AI solutions for real-world business problems. Work with Python, Pandas, NumPy, and Scikit ...",
+   "research_alignment": "",
+   "people_found": [],
+   "recent_developments": [],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": [
+    {
+     "claim": "organization context: Paxcom",
+     "sourceType": "google",
+     "sourceTitle": "Machine Learning/ AI Intern at paxcom",
+     "sourceUrl": "https://nextraise.ai/jobs/machine-learning-ai-intern-at-paxcom-e7b7bbbbc1c0",
+     "evidenceText": "Assist in developing and testing machine learning and AI solutions for real-world business problems. Work with Python, Pandas, NumPy, and Scikit ...",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: Paxcom",
+     "sourceType": "google",
+     "sourceTitle": "Machine Learning/ AI Intern - Gurugram, Haryana",
+     "sourceUrl": "https://in.indeed.com/viewjob?jk=1a00359ee11780bf",
+     "evidenceText": "We are a team of Ecommerce enthusiasts, passionate about using technology to simplify Digital Commerce and Payments for brands across the globe. Paxcom a ...",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: Paxcom",
+     "sourceType": "google",
+     "sourceTitle": "Machine Learning/ AI Intern | Gurugram District",
+     "sourceUrl": "https://www.jobleads.com/in/job/machine-learning-ai-intern--gurugram-district--e9630713b46b722e461abe61fd6b0c4b2",
+     "evidenceText": "Paxcom, a leading Digital Solution Provider, is seeking an AI/ML Intern for its E-commerce team in Gurgaon (Work From Office).",
+     "confidenceState": "UNVERIFIED"
+    }
+   ]
+  },
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "SHORTLISTED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "Gurgaon, Haryana, Indien",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "Paxcom",
+     "state": "VERIFIED",
+     "evidence_count": 5
+    }
+   }
+  },
+  "match_summary": {
+   "score": 0.573,
+   "rationale": "9/11 core skills match; location uncertain; research overlap: none stated.",
+   "gaps": []
+  }
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "AI/ML Intern",
+  "organization": "BharatTech",
+  "location": "Lakhnau, Uttar Pradesh, Indien",
+  "description": "Company Description BharatTech Origin Pvt. Ltd. is a deep-technology company focused on building next-generation intelligence infrastructure using Artificial Intelligence, Generative Intelligence, and emerging digital technologies. The company's vision is to make intelligence as accessible as information, moving beyond traditional AI toward systems that can learn, adapt, evolve, and generate new capabilities over time.\n\n\nBharatTech works across AI infrastructure, research, developer ecosystems, education technology, security-driven AI architectures, and accessibility-focused innovation. Its flagship initiative, Gi-Rivinity, represents the evolution from Generative AI to Generative Intelligence, emphasizing continuous learning, persistent understanding, adaptive security, and dynamic problem-solving. BharatTech is building a growing ecosystem of contributors, students, researchers, and industry collaborators to create accessible, scalable, and trustworthy intelligence systems.\n\n\nRole Description The AI/ML Intern will support the design, development, and evaluation of machine learning and generative intelligence models, with a focus on real-world applications aligned with BharatTech's vision. Day-to-day tasks may include data collection and preprocessing, implementing and testing algorithms, conducting experiments, documenting findings, and preparing technical reports or presentations. The intern will collaborate with engineers and researchers on prototype development, performance optimization, and integration of models into experimental systems and tools.\n\n\nThis is an internship role and is fully remote, requiring independent work, regular communication, and participation in virtual meetings and reviews.\n\n\nQualifications\nStrong foundation in mathematics and statistics (e.g., linear algebra, calculus, probability, statistical modeling) suitable for AI/ML research and development.Programming skills in languages commonly used for AI/ML such as Python (e.g., NumPy, Pandas), and familiarity with ML frameworks like TensorFlow or PyTorch.Knowledge of core machine learning concepts, including supervised and unsupervised learning, model evaluation, and basic deep learning architectures.Ability to work with datasets, including data cleaning, preprocessing, feature engineering, and exploratory data analysis.Interest in emerging areas such as Generative AI/Generative Intelligence, AI security, and trustworthy AI systems.Strong analytical thinking, problem-solving skills, and the capacity to learn new concepts and tools quickly.Clear written and verbal communication skills for documentation, collaboration, and presenting findings.Current enrollment in or recent completion of a degree program in Computer Science, Data Science, Engineering, Mathematics, or a related field.Ability to work independently in a remote environment, manage time effectively, and collaborate across distributed teams.Prior project or internship experience in AI/ML, open-source contributions, or relevant research work is a plus.",
+  "source_url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-lucknow--jobmesh-8626fdbd-8dd3-4319-8f44-b803701f622c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "bebee.com/in/jobs/ai-ml-intern-bharattech-lucknow--jobmesh-8626fdbd-8dd3-4319-8f44-b803701f622c",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-lucknow--jobmesh-8626fdbd-8dd3-4319-8f44-b803701f622c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-lucknow--jobmesh-8626fdbd-8dd3-4319-8f44-b803701f622c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [
+   "Qualifications"
+  ],
+  "skills_hint": [
+   "communication",
+   "data analysis",
+   "deep learning",
+   "git",
+   "llm",
+   "machine learning",
+   "python",
+   "pytorch",
+   "r",
+   "research",
+   "statistics",
+   "tensorflow"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "d773c38e0021",
+  "created_at": "2026-09-18T12:51:25Z"
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+  "organization": "Apple",
+  "location": "Bangalore, Karnataka, Indien",
+  "description": "Summary\nImagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Every single day, people do amazing things at Apple. This position involves a wide variety of skills, innovation, and is a rare opportunity to be working on groundbreaking, new applications of machine learning, research, and implementation. Ultimately, your work would have a huge impact on billions of users across the globe. You can help inspire change, by using your skills to influence globally recognized products' manufacturing.\n\nDescription\nThe goal of Apple's Manufacturing and Operations team is to take a vision of a product and turn it into a reality. Through the use of statistics, the scientific process, and machine learning, the team recommends and implements solutions to the most challenging problems. We're looking for ML researchers to help us revolutionize how we manufacture Apple's amazing products. Put your skill & passion to work in this highly visible role.\n\nResponsibilities\nResearch, build & adapt ML approaches for domain adaptation of multimodal foundation models to Apple manufacturing. Domain adaptation here is broad — spanning modalities including text, images, and video, such as generating physics-consistent videos adapted to Apple manufacturingDevelop techniques that steer large foundation models without modifying their weights, and multimodal knowledge-graph reasoning — domain-specific Q&A, multi-hop reasoning, disambiguation, and tool/retrieval orchestration over manufacturing knowledgeTrain, evaluate, and analyze model performance (e.g., exact-match/F1 accuracy, explanation quality, and generation fidelity) on public benchmarks and on internal datasets where applicableApply and extend LLMs, VLMs, and World Models to advance domain adaptation for manufacturingCollaborate within Apple to apply solutions to industrial problemsConduct presentations of analyses and results to a wide range of audiences including executives\n\nMinimum Qualifications\nPursuing PhD in Computer Science / related fieldDeep understanding of Machine Learning concepts, Probability and StatisticsUnderstanding of Computer Vision & VLMs, with demonstrated skill in training models and applying them to ML application development.Ability to prototype research ideas as working code (Python)Ability to meaningfully present results of analysis in a clear and impactful manner\n\nPreferred Qualifications\nFamiliarity with applying Machine Learning, especially Computer Vision in a Manufacturing / Assembly settingFamiliarity with multimodal understanding & reasoning, knowledge-graphs & generative video modelsPrior publications in relevant field\n\nAt Apple, we believe accessibility is a fundamental human right. You’ll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.\n\nLearn about accessibility in Apple’s workplace\n\nRole Number: 200676908-0321",
+  "source_url": "https://in.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "in.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://in.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://in.linkedin.com/jobs/view/phd-intern-machine-learning-msi-product-operations-team-at-apple-4467834348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [],
+  "skills_hint": [
+   "computer vision",
+   "git",
+   "llm",
+   "machine learning",
+   "python",
+   "r",
+   "research",
+   "statistics"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "18055789044d",
+  "created_at": "2026-09-18T12:51:25Z"
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "AI/ML Intern",
+  "organization": "BharatTech",
+  "location": "Mysore, Karnataka, Indien",
+  "description": "Company Description BharatTech Origin Pvt. Ltd. is a deep-technology company focused on building next-generation intelligence infrastructure using Artificial Intelligence, Generative Intelligence, and emerging digital technologies. The company's vision is to make intelligence as accessible as information, moving beyond traditional AI toward systems that can learn, adapt, evolve, and generate new capabilities over time.\n\n\nBharatTech works across AI infrastructure, research, developer ecosystems, education technology, security-driven AI architectures, and accessibility-focused innovation. Its flagship initiative, Gi-Rivinity, represents the evolution from Generative AI to Generative Intelligence, emphasizing continuous learning, persistent understanding, adaptive security, and dynamic problem-solving. BharatTech is building a growing ecosystem of contributors, students, researchers, and industry collaborators to create accessible, scalable, and trustworthy intelligence systems.\n\n\nRole Description The AI/ML Intern will support the design, development, and evaluation of machine learning and generative intelligence models, with a focus on real-world applications aligned with BharatTech's vision. Day-to-day tasks may include data collection and preprocessing, implementing and testing algorithms, conducting experiments, documenting findings, and preparing technical reports or presentations. The intern will collaborate with engineers and researchers on prototype development, performance optimization, and integration of models into experimental systems and tools.\n\n\nThis is an internship role and is fully remote, requiring independent work, regular communication, and participation in virtual meetings and reviews.\n\n\nQualifications\nStrong foundation in mathematics and statistics (e.g., linear algebra, calculus, probability, statistical modeling) suitable for AI/ML research and development.Programming skills in languages commonly used for AI/ML such as Python (e.g., NumPy, Pandas), and familiarity with ML frameworks like TensorFlow or PyTorch.Knowledge of core machine learning concepts, including supervised and unsupervised learning, model evaluation, and basic deep learning architectures.Ability to work with datasets, including data cleaning, preprocessing, feature engineering, and exploratory data analysis.Interest in emerging areas such as Generative AI/Generative Intelligence, AI security, and trustworthy AI systems.Strong analytical thinking, problem-solving skills, and the capacity to learn new concepts and tools quickly.Clear written and verbal communication skills for documentation, collaboration, and presenting findings.Current enrollment in or recent completion of a degree program in Computer Science, Data Science, Engineering, Mathematics, or a related field.Ability to work independently in a remote environment, manage time effectively, and collaborate across distributed teams.Prior project or internship experience in AI/ML, open-source contributions, or relevant research work is a plus.",
+  "source_url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-mysuru--jobmesh-02809a15-52d4-40e4-b040-d443bbfd9b53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "bebee.com/in/jobs/ai-ml-intern-bharattech-mysuru--jobmesh-02809a15-52d4-40e4-b040-d443bbfd9b53",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-mysuru--jobmesh-02809a15-52d4-40e4-b040-d443bbfd9b53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-mysuru--jobmesh-02809a15-52d4-40e4-b040-d443bbfd9b53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [
+   "Qualifications"
+  ],
+  "skills_hint": [
+   "communication",
+   "data analysis",
+   "deep learning",
+   "git",
+   "llm",
+   "machine learning",
+   "python",
+   "pytorch",
+   "r",
+   "research",
+   "statistics",
+   "tensorflow"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "067a68d31da6",
+  "created_at": "2026-09-18T12:51:25Z"
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "Data Science & AI Intern  Freshers",
+  "organization": "EVOLVE ROBOTICS LLP",
+  "location": "Indien",
+  "description": "Location: Kerala\nExperience: Freshers / Entry Level\n\nWe are looking for enthusiastic freshers who are interested in Data Science, Artificial Intelligence, Machine Learning, and Python.\n\nThis opportunity is suitable for candidates who are looking for a learning-focused environment, good mentorship, practical exposure, and an opportunity to upskill their technical skills.\n\nResponsibilities\n\nLearn and work on Data Science and AI projects.Work with Python for data analysis and machine learning.Learn data preprocessing, cleaning, and visualization.Explore Machine Learning concepts and algorithms.Assist in developing and testing AI/ML models.Work with real-world datasets and identify useful insights.Participate in practical projects under the guidance of mentors.Learn basic model evaluation and optimization techniques.Requirements\n\nFreshers / recent graduates are encouraged to apply.Degree/Diploma in Computer Science, IT, Electronics, Data Science, AI/ML, Mathematics, Statistics, or related fields.Basic knowledge of Python is an advantage.Basic understanding of Mathematics, Statistics, or Machine Learning is preferred.Good problem-solving and analytical thinking skills.Strong interest in learning AI and Data Science.Willingness to learn new technologies and improve technical skills.Candidates residing in Kerala are preferred.What We Offer\n\nGood technical mentorship and guidanceHands-on experience with AI & Data Science projectsReal-world project exposureOpportunity to learn industry-relevant technologiesSupportive and learning-focused environmentOpportunity to upskill your technical skillsCareer growth opportunities based on skills and performanceWho Should Apply \n\nIf you are a fresher who may not have extensive industry experience but has the curiosity and willingness to learn, this opportunity is for you.\n\nIf you are looking for good mentorship, practical learning, project exposure, and an opportunity to build your career in Data Science & AI, we welcome you to apply.\n\nFreshers from Kerala who are passionate about AI, Data Science, and continuous learning are encouraged to apply.\n\nCompensation: 5,000.00 - 8,000.00 per month\n\nWork Location: In person .",
+  "source_url": "https://www.shine.com/jobs/data-science-ai-intern-freshers/evolve-robotics-llp/19555923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "shine.com/jobs/data-science-ai-intern-freshers/evolve-robotics-llp/19555923",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://www.shine.com/jobs/data-science-ai-intern-freshers/evolve-robotics-llp/19555923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://www.shine.com/jobs/data-science-ai-intern-freshers/evolve-robotics-llp/19555923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [],
+  "skills_hint": [
+   "data analysis",
+   "machine learning",
+   "python",
+   "r",
+   "statistics"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "4d76a61c0641",
+  "created_at": "2026-09-18T12:51:25Z"
+ },
+ {
+  "task_id": "8662a472c5e4",
+  "user_id": "demo-user",
+  "title": "AI/ML Intern",
+  "organization": "BharatTech",
+  "location": "Amritsar, Punjab, Indien",
+  "description": "Company Description BharatTech Origin Pvt. Ltd. is a deep-technology company focused on building next-generation intelligence infrastructure using Artificial Intelligence, Generative Intelligence, and emerging digital technologies. The company's vision is to make intelligence as accessible as information, moving beyond traditional AI toward systems that can learn, adapt, evolve, and generate new capabilities over time.\n\n\nBharatTech works across AI infrastructure, research, developer ecosystems, education technology, security-driven AI architectures, and accessibility-focused innovation. Its flagship initiative, Gi-Rivinity, represents the evolution from Generative AI to Generative Intelligence, emphasizing continuous learning, persistent understanding, adaptive security, and dynamic problem-solving. BharatTech is building a growing ecosystem of contributors, students, researchers, and industry collaborators to create accessible, scalable, and trustworthy intelligence systems.\n\n\nRole Description The AI/ML Intern will support the design, development, and evaluation of machine learning and generative intelligence models, with a focus on real-world applications aligned with BharatTech's vision. Day-to-day tasks may include data collection and preprocessing, implementing and testing algorithms, conducting experiments, documenting findings, and preparing technical reports or presentations. The intern will collaborate with engineers and researchers on prototype development, performance optimization, and integration of models into experimental systems and tools.\n\n\nThis is an internship role and is fully remote, requiring independent work, regular communication, and participation in virtual meetings and reviews.\n\n\nQualifications\nStrong foundation in mathematics and statistics (e.g., linear algebra, calculus, probability, statistical modeling) suitable for AI/ML research and development.Programming skills in languages commonly used for AI/ML such as Python (e.g., NumPy, Pandas), and familiarity with ML frameworks like TensorFlow or PyTorch.Knowledge of core machine learning concepts, including supervised and unsupervised learning, model evaluation, and basic deep learning architectures.Ability to work with datasets, including data cleaning, preprocessing, feature engineering, and exploratory data analysis.Interest in emerging areas such as Generative AI/Generative Intelligence, AI security, and trustworthy AI systems.Strong analytical thinking, problem-solving skills, and the capacity to learn new concepts and tools quickly.Clear written and verbal communication skills for documentation, collaboration, and presenting findings.Current enrollment in or recent completion of a degree program in Computer Science, Data Science, Engineering, Mathematics, or a related field.Ability to work independently in a remote environment, manage time effectively, and collaborate across distributed teams.Prior project or internship experience in AI/ML, open-source contributions, or relevant research work is a plus.",
+  "source_url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-amritsar--jobmesh-5a9e3e29-060b-4623-a525-8f480a96c9ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "bebee.com/in/jobs/ai-ml-intern-bharattech-amritsar--jobmesh-5a9e3e29-060b-4623-a525-8f480a96c9ff",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-amritsar--jobmesh-5a9e3e29-060b-4623-a525-8f480a96c9ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   },
+   {
+    "type": "google_jobs",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-amritsar--jobmesh-5a9e3e29-060b-4623-a525-8f480a96c9ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [
+   "Qualifications"
+  ],
+  "skills_hint": [
+   "communication",
+   "data analysis",
+   "deep learning",
+   "git",
+   "llm",
+   "machine learning",
+   "python",
+   "pytorch",
+   "r",
+   "research",
+   "statistics",
+   "tensorflow"
+  ],
+  "status": "DISCOVERED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "86a7bbe016e7",
+  "created_at": "2026-09-18T12:51:26Z"
+ },
+ {
+  "task_id": "638d7db40332",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "Machine Learning Internship",
+  "organization": "Sparks To Ideas",
+  "location": "Gandhinagar, Gujarat, Indien",
+  "description": "Sparks To Ideas is a growing IT training and development company dedicated to providing hands-on experience in emerging technologies. We help students and freshers gain practical exposure through real-time projects and industry-level guidance.\n\nWe are seeking enthusiastic and curious  Machine Learning Interns who are passionate about Artificial Intelligence and Machine Learning. The intern will work on real-world datasets, build models, and assist in developing intelligent applications.\n\n Eligibility Criteria\n\n B.E/B.Tech, BCA, MCA, or any IT-related field Final year students or recent graduates Candidates must be available for on-site internship in Ahmedabad\n\nBenefits\n\n Hands-on experience with real-time AI/ML projects Internship completion certificate Letter of recommendation (based on performance) Opportunity for full-time role Supportive and learning-focused environment\n\nThis job is provided by Shine.com",
+  "source_url": "https://in.linkedin.com/jobs/view/machine-learning-internship-at-sparks-to-ideas-4464853894?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "in.linkedin.com/jobs/view/machine-learning-internship-at-sparks-to-ideas-4464853894",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-internship-at-sparks-to-ideas-4464853894?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [
+   "Eligibility Criteria"
+  ],
+  "skills_hint": [
+   "machine learning",
+   "r"
+  ],
+  "status": "MATCHED",
+  "deadline": "",
+  "evidence": [],
+  "_id": "d949dd8c31ee",
+  "created_at": "2026-09-18T13:02:00Z",
+  "verification": {
+   "fields": {
+    "deadline": {
+     "value": "",
+     "state": "UNKNOWN",
+     "evidence_count": 0
+    },
+    "status": {
+     "value": "MATCHED",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "location": {
+     "value": "Gandhinagar, Gujarat, Indien",
+     "state": "PARTIALLY_VERIFIED",
+     "evidence_count": 0
+    },
+    "organization": {
+     "value": "Sparks To Ideas",
+     "state": "VERIFIED",
+     "evidence_count": 1
+    }
+   }
+  }
+ },
+ {
+  "task_id": "638d7db40332",
+  "user_id": "user:kudalkaromkar44@gmail.com",
+  "title": "AI/ML Intern",
+  "organization": "BharatTech",
+  "location": "Palakkad, Keralam, Indien",
+  "description": "Company Description BharatTech Origin Pvt. Ltd. is a deep-technology company focused on building next-generation intelligence infrastructure using Artificial Intelligence, Generative Intelligence, and emerging digital technologies. The company's vision is to make intelligence as accessible as information, moving beyond traditional AI toward systems that can learn, adapt, evolve, and generate new capabilities over time.\n\n\nBharatTech works across AI infrastructure, research, developer ecosystems, education technology, security-driven AI architectures, and accessibility-focused innovation. Its flagship initiative, Gi-Rivinity, represents the evolution from Generative AI to Generative Intelligence, emphasizing continuous learning, persistent understanding, adaptive security, and dynamic problem-solving. BharatTech is building a growing ecosystem of contributors, students, researchers, and industry collaborators to create accessible, scalable, and trustworthy intelligence systems.\n\n\nRole Description The AI/ML Intern will support the design, development, and evaluation of machine learning and generative intelligence models, with a focus on real-world applications aligned with BharatTech's vision. Day-to-day tasks may include data collection and preprocessing, implementing and testing algorithms, conducting experiments, documenting findings, and preparing technical reports or presentations. The intern will collaborate with engineers and researchers on prototype development, performance optimization, and integration of models into experimental systems and tools.\n\n\nThis is an internship role and is fully remote, requiring independent work, regular communication, and participation in virtual meetings and reviews.\n\n\nQualifications\nStrong foundation in mathematics and statistics (e.g., linear algebra, calculus, probability, statistical modeling) suitable for AI/ML research and development.Programming skills in languages commonly used for AI/ML such as Python (e.g., NumPy, Pandas), and familiarity with ML frameworks like TensorFlow or PyTorch.Knowledge of core machine learning concepts, including supervised and unsupervised learning, model evaluation, and basic deep learning architectures.Ability to work with datasets, including data cleaning, preprocessing, feature engineering, and exploratory data analysis.Interest in emerging areas such as Generative AI/Generative Intelligence, AI security, and trustworthy AI systems.Strong analytical thinking, problem-solving skills, and the capacity to learn new concepts and tools quickly.Clear written and verbal communication skills for documentation, collaboration, and presenting findings.Current enrollment in or recent completion of a degree program in Computer Science, Data Science, Engineering, Mathematics, or a related field.Ability to work independently in a remote environment, manage time effectively, and collaborate across distributed teams.Prior project or internship experience in AI/ML, open-source contributions, or relevant research work is a plus.",
+  "source_url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-palakkad--jobmesh-5732a9f5-bbf9-4498-a19b-085591d8958e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "canonical_url": "bebee.com/in/jobs/ai-ml-intern-bharattech-palakkad--jobmesh-5732a9f5-bbf9-4498-a19b-085591d8958e",
+  "source_engine": "google_jobs",
+  "source_type": "web",
+  "sources": [
+   {
+    "type": "web",
+    "url": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-palakkad--jobmesh-5732a9f5-bbf9-4498-a19b-085591d8958e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "engine": "google_jobs"
+   }
+  ],
+  "freshness": {
+   "label": "UNKNOWN",
+   "detail": "DATE UNKNOWN"
+  },
+  "is_early_signal": false,
+  "author": "",
+  "application": {},
+  "requirements": [
+   "Qualifications"
+  ],
+  "skills_hint": [
+   "communication",
+   "data analysis",
+   "deep learning",
+   "git",
+   "llm",
+   "machine learning",
+   "python",
+   "pytorch",
+   "r",
+   "research",
+   "statistics",
+   "tensorflow"
+  ],
+  "status": "APPLICATION_READY",
+  "deadline": "",
+  "evidence": [],
+  "_id": "48fb914b270a",
+  "created_at": "2026-09-18T13:02:00Z",
+  "investigation": {
+   "organization_summary": "Role Description The AI/ML Intern will support the design, development, and evaluation of machine learning and generative intelligence models, ...",
+   "research_alignment": "",
+   "people_found": [],
+   "recent_developments": [],
+   "location_context": {},
+   "missing_information": [
+    "deadline",
+    "eligibility",
+    "skills"
+   ],
+   "evidence": [
+    {
+     "claim": "organization context: BharatTech",
+     "sourceType": "google",
+     "sourceTitle": "AI/ML Intern - BharatTech",
+     "sourceUrl": "https://bebee.com/in/jobs/ai-ml-intern-bharattech-mount--jobmesh-c576df84-8bc2-490f-8041-6e0ac2640c9d",
+     "evidenceText": "Role Description The AI/ML Intern will support the design, development, and evaluation of machine learning and generative intelligence models, ...",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: BharatTech",
+     "sourceType": "google",
+     "sourceTitle": "Technology Intern (ai Ml) Jobs in India (491 Open Roles)",
+     "sourceUrl": "https://in.linkedin.com/jobs/technology-intern-%28ai-ml%29-jobs",
+     "evidenceText": "AI/ML Intern. AI/ML Intern. BharatTech. India 1 day ago. Research Intern, AI. Research Intern, AI. SHL. Gurgaon, Haryana, India. Actively Hiring. 1 week ago.",
+     "confidenceState": "UNVERIFIED"
+    },
+    {
+     "claim": "organization context: BharatTech",
+     "sourceType": "google",
+     "sourceTitle": "Ai Ml Intern Jobs in the Middle East (Sep 2026)",
+     "sourceUrl": "https://www.bayt.com/en/international/jobs/ai-ml-intern-jobs/",
+     "evidenceText": "Summary: An opportunity is available for a three-month unpaid internship leading to a one-year full-time trainee program in software engineering.",
+     "confidenceState": "UNVERIFIED"
+    }
+   ]
+  }
+ }
+]

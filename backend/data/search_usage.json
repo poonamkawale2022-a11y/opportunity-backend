@@ -1,0 +1,212 @@
+[
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "1b6cf2e3dee0",
+  "created_at": "2026-09-18T09:55:12Z"
+ },
+ {
+  "engine": "google_jobs",
+  "count": 1,
+  "_id": "902260f993ff",
+  "created_at": "2026-09-18T09:55:36Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "651c0a046b72",
+  "created_at": "2026-09-18T09:55:50Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "585be5cbd5c8",
+  "created_at": "2026-09-18T09:56:10Z"
+ },
+ {
+  "engine": "google_maps",
+  "count": 1,
+  "_id": "555847d34db5",
+  "created_at": "2026-09-18T10:01:46Z"
+ },
+ {
+  "engine": "google_jobs",
+  "count": 1,
+  "_id": "7fe513e5d9bc",
+  "created_at": "2026-09-18T10:03:09Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "9d4b53fe24b8",
+  "created_at": "2026-09-18T10:06:05Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "a026fc4f1adf",
+  "created_at": "2026-09-18T10:06:13Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "5d7cd5d66ce0",
+  "created_at": "2026-09-18T10:06:23Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "8d83e28e5ff3",
+  "created_at": "2026-09-18T10:06:37Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "1cc7db80f5eb",
+  "created_at": "2026-09-18T10:07:37Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "f8ffc0847096",
+  "created_at": "2026-09-18T10:41:35Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "ff329a3b2a3e",
+  "created_at": "2026-09-18T10:41:39Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "d202323c2ff8",
+  "created_at": "2026-09-18T11:51:14Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "4a1bc3537e5e",
+  "created_at": "2026-09-18T11:51:18Z"
+ },
+ {
+  "engine": "google_jobs",
+  "count": 1,
+  "_id": "42769aae61ec",
+  "created_at": "2026-09-18T12:48:24Z"
+ },
+ {
+  "engine": "google_jobs",
+  "count": 1,
+  "_id": "eee889a2dd03",
+  "created_at": "2026-09-18T12:51:18Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "d7b7df8eda3e",
+  "created_at": "2026-09-18T12:51:21Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "8e9d8fed6cf3",
+  "created_at": "2026-09-18T12:51:25Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "400d7873e63b",
+  "created_at": "2026-09-18T12:51:30Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "05869d042d5e",
+  "created_at": "2026-09-18T12:51:43Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "4967b77f0e7a",
+  "created_at": "2026-09-18T12:52:42Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "6d46c404a71e",
+  "created_at": "2026-09-18T12:52:48Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "bf68d70d7019",
+  "created_at": "2026-09-18T12:53:01Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "d10a066e2aa2",
+  "created_at": "2026-09-18T12:53:47Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "36ff6a339cdf",
+  "created_at": "2026-09-18T12:53:55Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "fa9acb4fd080",
+  "created_at": "2026-09-18T12:54:04Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "994746b539ee",
+  "created_at": "2026-09-18T12:54:25Z"
+ },
+ {
+  "engine": "google_jobs",
+  "count": 1,
+  "_id": "2cf8d89e1528",
+  "created_at": "2026-09-18T12:58:43Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "11b0d165a2d2",
+  "created_at": "2026-09-18T13:01:54Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "c3d35e0bb62d",
+  "created_at": "2026-09-18T13:01:59Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "048893ac066a",
+  "created_at": "2026-09-18T13:07:30Z"
+ },
+ {
+  "engine": "google",
+  "count": 1,
+  "_id": "46a2661790dd",
+  "created_at": "2026-09-18T13:19:57Z"
+ },
+ {
+  "engine": "google_scholar",
+  "count": 1,
+  "_id": "8de0e7e595e6",
+  "created_at": "2026-09-18T13:20:07Z"
+ },
+ {
+  "engine": "google_news",
+  "count": 1,
+  "_id": "6bf4a1a7e774",
+  "created_at": "2026-09-18T13:20:18Z"
+ }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "opportunity-intel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:integrations": "python backend/scripts/smoke.py",
+    "test:integrations:live": "python backend/scripts/smoke.py --live",
+    "test:unit": "python -m pytest backend/tests/test_unit.py -q",
+    "dev:backend": "uvicorn app.main:app --reload --port 8000",
+    "dev:frontend": "npm --prefix frontend run dev"
+  }
+}
