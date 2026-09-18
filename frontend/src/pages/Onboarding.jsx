@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Mark } from '../components/chrome.jsx';
@@ -60,6 +60,30 @@ export default function Onboarding() {
   const [err, setErr] = useState('');
   const [note, setNote] = useState('');
   const [seeded, setSeeded] = useState(false);
+  const colRef = useRef(null);
+
+  // buttery scroll for the hidden-scrollbar form column
+  useEffect(() => {
+    const el = colRef.current;
+    if (!el) return;
+    let target = el.scrollTop, raf = 0, active = false;
+    const step = () => {
+      const diff = target - el.scrollTop;
+      if (Math.abs(diff) < 0.5) { active = false; return; }
+      el.scrollTop += diff * 0.18;
+      raf = requestAnimationFrame(step);
+    };
+    const onWheel = (e) => {
+      if (el.scrollHeight <= el.clientHeight + 2) return;
+      e.preventDefault();
+      target = Math.max(0, Math.min(el.scrollHeight - el.clientHeight, target + e.deltaY * 1.1));
+      if (!active) { active = true; raf = requestAnimationFrame(step); }
+    };
+    const onScroll = () => { if (!active) target = el.scrollTop; };
+    el.addEventListener('wheel', onWheel, { passive: false });
+    el.addEventListener('scroll', onScroll);
+    return () => { el.removeEventListener('wheel', onWheel); el.removeEventListener('scroll', onScroll); cancelAnimationFrame(raf); };
+  }, []);
 
   const P = (k, v) => setPersonal((p) => ({ ...p, [k]: v }));
   const id = uid();
@@ -139,7 +163,7 @@ export default function Onboarding() {
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6">
         <div className="grid lg:grid-cols-[1fr_300px] gap-8 min-h-[calc(100svh-118px-69px)] items-center py-6 pb-28">
-          <div className="min-w-0 lg:max-h-[calc(100svh-240px)] lg:overflow-y-auto noscroll lg:pr-3">
+          <div ref={colRef} className="min-w-0 lg:max-h-[calc(100svh-240px)] lg:overflow-y-auto noscroll lg:pr-3">
             {!user && (
               <div className="bg-sun/40 border border-ink/15 rounded-xl px-4 py-2.5 text-sm mb-4">
                 Guest run — <Link to="/signup" className="font-semibold underline decoration-signal decoration-2 underline-offset-4">create an account</Link> to keep this.
